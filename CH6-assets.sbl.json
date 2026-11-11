@@ -1,0 +1,204 @@
+{
+  "library": {
+    "id": "CH6-assets",
+    "specification": {
+      "name": "SBL",
+      "version": "1.0",
+      "exact": true
+    },
+    "resources": {
+      "Zora-Nyas-world-map.png": {
+        "file": "Zora-Nyas-world-map.png",
+        "type": "image",
+        "purposes": [
+          "geography_reference"
+        ]
+      },
+      "Nyas-cultural-development-specification.txt": {
+        "file": "Nyas-cultural-development-specification.txt",
+        "type": "text",
+        "purposes": [
+          "world_population_canon"
+        ]
+      },
+      "Zora-cultural-development-specification.txt": {
+        "file": "Zora-cultural-development-specification.txt",
+        "type": "text",
+        "purposes": [
+          "world_population_canon"
+        ]
+      },
+      "Nyassarian_Language_and_Script.docx": {
+        "file": "Nyassarian_Language_and_Script.docx",
+        "type": "text",
+        "purposes": [
+          "writing_system_reference"
+        ]
+      },
+      "Zoran_Language_and_script.docx": {
+        "file": "Zoran_Language_and_script.docx",
+        "type": "text",
+        "purposes": [
+          "writing_system_reference"
+        ]
+      },
+      "Zora-Nyas-writing-systems-sheet.png": {
+        "file": "Zora-Nyas-writing-systems-sheet.png",
+        "type": "image",
+        "purposes": [
+          "writing_system_reference"
+        ]
+      },
+      "Zora-Nyas-writing-systems-renderer-spec.txt": {
+        "file": "Zora-Nyas-writing-systems-renderer-spec.txt",
+        "type": "text",
+        "purposes": [
+          "renderer_specification"
+        ]
+      },
+      "Zorna-character-sheet.png": {
+        "file": "Zorna-character-sheet.png",
+        "type": "image",
+        "purposes": [
+          "character_identity",
+          "color_reference"
+        ]
+      },
+      "Zorna-expression-sheet.png": {
+        "file": "Zorna-expression-sheet.png",
+        "type": "image",
+        "purposes": [
+          "expression_reference"
+        ]
+      },
+      "Zorna-canonical-character-specification.txt": {
+        "file": "Zorna-canonical-character-specification.txt",
+        "type": "text",
+        "purposes": [
+          "character_specification"
+        ]
+      },
+      "Nyssara-character-sheet.png": {
+        "file": "Nyssara-character-sheet.png",
+        "type": "image",
+        "purposes": [
+          "character_identity",
+          "color_reference"
+        ]
+      },
+      "Nyssara-expression-sheet.png": {
+        "file": "Nyssara-expression-sheet.png",
+        "type": "image",
+        "purposes": [
+          "expression_reference"
+        ]
+      },
+      "Nyssara-canonical-character-specification.txt": {
+        "file": "Nyssara-canonical-character-specification.txt",
+        "type": "text",
+        "purposes": [
+          "character_specification"
+        ]
+      },
+      "Terra-character-sheet.png": {
+        "file": "Terra-character-sheet.png",
+        "type": "image",
+        "purposes": [
+          "character_identity",
+          "color_reference"
+        ]
+      },
+      "Terra-expression-sheet.png": {
+        "file": "Terra-expression-sheet.png",
+        "type": "image",
+        "purposes": [
+          "expression_reference"
+        ]
+      },
+      "Terra-canonical-character-specification.txt": {
+        "file": "Terra-canonical-character-specification.txt",
+        "type": "text",
+        "purposes": [
+          "character_specification"
+        ]
+      },
+      "WOA-production-sheet.png": {
+        "file": "WOA-production-sheet.png",
+        "type": "image",
+        "purposes": [
+          "environment_reference"
+        ]
+      },
+      "WOA-production-sheet-plus-map.png": {
+        "file": "WOA-production-sheet-plus-map.png",
+        "type": "image",
+        "purposes": [
+          "environment_reference"
+        ]
+      },
+      "WOA-observation-field-states-sheet.png": {
+        "file": "WOA-observation-field-states-sheet.png",
+        "type": "image",
+        "purposes": [
+          "effect_state_reference"
+        ]
+      },
+      "WOA-canonical-production-specification.txt": {
+        "file": "WOA-canonical-production-specification.txt",
+        "type": "text",
+        "purposes": [
+          "environment_specification"
+        ]
+      },
+      "WOA-time-compression-display-specification.txt": {
+        "file": "WOA-time-compression-display-specification.txt",
+        "type": "text",
+        "purposes": [
+          "time_compression_specification"
+        ]
+      },
+      "Mage-Corps-Training-and-Field-Equipment-Sheet.png": {
+        "file": "Mage-Corps-Training-and-Field-Equipment-Sheet.png",
+        "type": "image",
+        "purposes": [
+          "zoran_mage_corps_training",
+          "field_equipment",
+          "defensive_testing",
+          "mana_crystal_logistics"
+        ]
+      },
+      "demon Sketch.png": {
+        "file": "demon Sketch.png",
+        "type": "image",
+        "purposes": [
+          "jeremiel_fictional_demon_sketch",
+          "plot_object_reference"
+        ]
+      },
+      "Zora-mana-effects-sheet.png": {
+        "file": "Zora-mana-effects-sheet.png",
+        "type": "image",
+        "purposes": [
+          "zoran_mana_visual_ancestry",
+          "mana_effect_reference"
+        ]
+      },
+      "Zoran-mana-crystals-production-sheet.png": {
+        "file": "Zoran-mana-crystals-production-sheet.png",
+        "type": "image",
+        "purposes": [
+          "mana_crystal_reference",
+          "battlefield_logistics"
+        ]
+      },
+      "Light-Healing-and-Illusion-Training-Technical-Sheet.png": {
+        "file": "Light-Healing-and-Illusion-Training-Technical-Sheet.png",
+        "type": "image",
+        "purposes": [
+          "light_healing_visual_reference",
+          "training_reference"
+        ]
+      }
+    }
+  }
+}

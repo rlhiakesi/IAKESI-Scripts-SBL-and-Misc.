@@ -1,0 +1,358 @@
+IAKESI — CHAPTER REVISION COMMANDS (VERSION 5) COPY/PASTE CHECKLIST FOR
+CHATGPT =====================================
+
+HOW TO USE Replace [CHAPTER] with the chapter number. Attach the current
+working DOCX, the current Assets ZIP, and the global production
+specification as needed. Paste ONE numbered command at a time into
+ChatGPT. Work from the newest verified DOCX, not an older revision.
+
+DEFAULT RULE FOR EVERY COMMAND: Use the latest verified working script
+as the sole editorial master. Preserve approved dialogue, narration,
+visual beats, and stable source IDs unless I explicitly authorize
+changes. Make the requested changes to the DOCX, then rerun all affected
+checks and repair errors introduced by your changes. Return the updated
+DOCX and a concise PASS/FAIL/REVIEW report. Do not open previewers or
+render artwork unless I explicitly request it. Never claim a full pass
+when only structural checks have been performed. Do not proceed to the
+next step with unresolved blockers. At SBL generation and release,
+validate all mandatory schema fields at the panel level, not only at
+page/chapter level; a successful render prompt is not schema evidence.
+
+============================================================ PHASE A —
+STORY AND EDITORIAL INTEGRITY
+============================================================
+
+STEP 01 — SOURCE INVENTORY AND BASELINE SNAPSHOT
+
+COMMAND TO PASTE: Perform Step 1 for Chapter [CHAPTER]: Source inventory
+and baseline snapshot. Identify the authoritative chapter DOCX, current
+canon/global production setup, assets archive, and reference versions.
+Count pages/scenes/dialogue units and record checksums; flag missing
+references and obsolete alternatives. Establish stable
+scene/utterance/visual-beat IDs before structural editing.
+
+STEP 02 — WHOLE-STORY AND CONTINUITY PASS
+
+COMMAND TO PASTE: Perform Step 2 for Chapter [CHAPTER]: Whole-story and
+continuity pass. Check chronology, motivation, causality,
+chapter-to-chapter continuity, and established story canon.
+
+STEP 03 — CHARACTER-ARC PASS
+
+COMMAND TO PASTE: Perform Step 3 for Chapter [CHAPTER]: Character-arc
+pass. Track important characters independently, including trust,
+motivation, competence, and relationship changes.
+
+STEP 04 — MIDORI PSYCHOLOGICAL-DEVELOPMENT PASS
+
+COMMAND TO PASTE: Perform Step 4 for Chapter [CHAPTER]: Midori
+psychological-development pass. Verify that her conclusions about
+promises, dependence, authority, competence, trust, and power are earned
+by shown events. Adapt this character-specific pass when a chapter’s
+central arc differs.
+
+STEP 05 — HISTORICAL AND CULTURAL PASS
+
+COMMAND TO PASTE: Perform Step 5 for Chapter [CHAPTER]: Historical and
+cultural pass. Check period-specific institutions, literacy, clothing,
+food, etiquette, hierarchy, and language. Record deliberate manga
+conventions separately from accidental anachronisms.
+
+STEP 06 — WORLD AND CANON PASS
+
+COMMAND TO PASTE: Perform Step 6 for Chapter [CHAPTER]: World and canon
+pass. Check DOTG, Soul Relocation Area, Terra/Zorna responsibilities,
+reincarnation, mana, Zora/Nyssara and chapter-dependent rules. Resolve
+contradictions before layout.
+
+STEP 07 — REDUNDANCY AND OBSOLETE-MATERIAL CLEANUP
+
+COMMAND TO PASTE: Perform Step 7 for Chapter [CHAPTER]: Redundancy and
+obsolete-material cleanup. Remove superseded alternatives, duplicated
+instructions, abandoned notes, and contradictory production guidance.
+Keep only approved canon.
+
+STEP 08 — DIALOGUE/NARRATION EDITORIAL PASS AND COMIC SCRIPT SYNTAX
+NORMALIZATION
+
+COMMAND TO PASTE: Perform Step 8 for Chapter [CHAPTER]:
+Dialogue/narration editorial pass and COMIC SCRIPT SYNTAX normalization.
+Check voice, period appropriateness, exposition, repeated lines, and
+artwork-versus-dialogue responsibilities. Enforce named speaker,
+connected-chain ownership, thought syntax, and all-caps lettering policy
+without changing words unintentionally.
+
+STEP 09 — EDITORIAL INTEGRITY GATE
+
+COMMAND TO PASTE: Perform Step 9 for Chapter [CHAPTER]: Editorial
+integrity gate. Compare scene, utterance, and visual-beat IDs against
+baseline. Confirm no unauthorized omissions, duplicates, or dialogue
+edits. Freeze approved story content, not pagination.
+
+GATE: Do not advance unless all required checks pass or I explicitly
+approve documented exceptions.
+
+============================================================ PHASE B —
+PAGE DESIGN AND LETTERING CAPACITY
+============================================================
+
+STEP 10 — PRODUCTION SPECIFICATION INTAKE
+
+COMMAND TO PASTE: Perform Step 10 for Chapter [CHAPTER]: Production
+specification intake. Load current IAKESI Global Production Setup and
+chapter-specific rules. Establish canvas, trim, safe areas, page parity,
+artwork/lettering/text separation, CSP authority, styles, prohibited
+text, and guide-specific exceptions.
+
+STEP 11 — QUANTITATIVE TEXT-DENSITY BASELINE
+
+COMMAND TO PASTE: Perform Step 11 for Chapter [CHAPTER]: Quantitative
+text-density baseline. Measure dialogue, thoughts, narration, captions,
+and display labels by scene and proposed page; count words, characters,
+bubble chains, speakers, and anticipated balloon footprints. Flag
+outliers before layout.
+
+STEP 12 — PROVISIONAL PAGE/PACING AND MINI-ARC PASS
+
+COMMAND TO PASTE: Perform Step 12 for Chapter [CHAPTER]: Provisional
+page/pacing and mini-arc pass. Place story beats into provisional pages.
+Assess page turns, silent beats, mini-arc openings in panel 1, and
+whether scenes earn their space. Do not freeze pagination.
+
+STEP 13 — PROVISIONAL PANEL LAYOUT AND PANEL-COUNT RHYTHM
+
+COMMAND TO PASTE: Perform Step 13 for Chapter [CHAPTER]: Provisional
+panel layout and panel-count rhythm. Plan panel-to-scene/visual-beat
+mapping; evaluate panel-count histogram and repeated-grid runs. Preserve
+major moments, reaction beats, and chronological ordering.
+
+STEP 14 — MANDATORY PANEL-GEOMETRY DIVERSIFICATION PASS
+
+COMMAND TO PASTE: Perform Step 14 for Chapter [CHAPTER]: Panel-geometry
+and visual-rhythm diversification, BEFORE Step 15. Using the complete
+provisional panel/scene/visual-beat map, assign explicit top-to-bottom
+row patterns for EVERY page (e.g., 1-2-1, 2x2, 2-1-2, 1-2-2, or a
+justified full-width arrangement). Evaluate both panel-count runs AND
+geometric-layout runs; these are distinct checks. Generate a complete
+page-by-page layout-pattern inventory, distribution/histogram, longest
+repeated-pattern runs, and a numbered contact sheet covering the actual chapter page count. Identify excessive horizontal-strip pages,
+repeated grids, and missed opportunities for action, reaction, establishing
+shots, and dramatic emphasis. Introduce varied full-width, two-column,
+and asymmetric layouts where the STORY and lettering allow; do not force
+a pattern or arbitrary quota, split a connected bubble chain, create empty
+panels, or sacrifice reading order, visual clarity, or artwork space merely
+for variety. Preserve approved story beats, dialogue exactly once, panel
+IDs and page count unless a documented fit/story reason requires reflow.
+For each page, record the chosen pattern and story-specific justification,
+including any intentionally repeated or all-full-width layout. Output
+provisional numeric rectangles with correct recto/verso safe areas and
+nonoverlapping gutters, plus a page-to-panel geometry map. Do NOT mark
+this step PASS from panel counts alone or from a schematic that omits
+lettering burden. Carry its approved geometry directly into Step 15.
+
+GATE: Do not advance to Step 15 without a complete page-by-page
+geometric-rhythm audit and explicit review of intentional exceptions.
+
+STEP 15 — ARTWORK-AWARE GEOMETRY AND LETTERING-FIT PASS
+
+COMMAND TO PASTE: Perform Step 15 for Chapter [CHAPTER]: Artwork-aware
+geometry and lettering-fit pass. Start from the Step 14 diversified
+numeric rectangles; do not silently replace them with uniform horizontal
+strips. Estimate balloon fit at permitted font sizes for EVERY panel,
+including narrow columns, connected speech chains, narration, and SFX;
+check speaker visibility, tail routes, reading order, gutters, and art
+negative space. Revise geometry or add pages rather than silently
+shrinking lettering. Preserve scene/utterance/beat IDs.
+
+STEP 16 — CONTROLLED EXPANSION/REFLOW AND PAGE-TURN REGRESSION
+
+COMMAND TO PASTE: Perform Step 16 for Chapter [CHAPTER]: Controlled
+expansion/reflow and page-turn regression. If pages are inserted,
+transform the complete editable DOCX, not only SBL geometry. Recalculate
+parity, safe areas, page turns, scene ownership, supplement pagination,
+and dialogue exactly-once mapping. Re-run Step 14 geometric-layout
+rhythm and Step 15 density/fit checks on every affected page. Prefer
+even-number additions where useful, never at the expense of
+storytelling.
+
+STEP 17 — LAYOUT APPROVAL GATE
+
+COMMAND TO PASTE: Perform Step 17 for Chapter [CHAPTER]: Layout approval
+gate. Require explicit per-page panel mapping, complete action and
+dialogue ownership, no unexplained orphan/silent panels, no
+overlaps/out-of-bounds rectangles, acceptable estimated lettering fit,
+and reviewed page turns. Verify BOTH panel-count and geometric-layout
+rhythm against Step 14, with justified exceptions; reject a layout
+that reverts to repetitive strips without review. Lock pagination only
+after this gate.
+
+GATE: Do not advance unless all required checks pass or I explicitly
+approve documented exceptions.
+
+============================================================ PHASE C —
+DIRECTING, CONTINUITY, AND ASSETS
+============================================================
+
+STEP 18 — DIRECTORIAL PASS
+
+COMMAND TO PASTE: Perform Step 18 for Chapter [CHAPTER]: Directorial
+pass. Establish Setting, Action, Direction, Camera, Blocking,
+Expression, Lighting, Effects and relevant Props for each page/panel,
+using documented inheritance where appropriate. Distinguish narration
+boxes from production-only directions.
+
+STEP 19 — VISUAL-CONTINUITY PASS
+
+COMMAND TO PASTE: Perform Step 19 for Chapter [CHAPTER]:
+Visual-continuity pass. Track characters, costumes, persistent props,
+crystal/gauge states, lighting, geography, season, time of day,
+eyelines, entrances/exits, and movement between panels and pages.
+
+STEP 20 — ASSET INVENTORY, CREATION, AND CLASSIFICATION
+
+COMMAND TO PASTE: Perform Step 20 for Chapter [CHAPTER]: Asset
+inventory, creation, and classification. Compare recurring
+characters/costumes/locations/important props to the current archive.
+Create missing canonical sheets only where necessary; classify
+canonical, supplemental, and generated-on-the-fly material. Include
+language/script reference documents in the asset package when required.
+
+STEP 21 — TWO-LEVEL ASSET-BINDING PASS
+
+COMMAND TO PASTE: Perform Step 21 for Chapter [CHAPTER]: Two-level
+asset-binding pass. Bind scene context and panel-visible references
+separately using exact Assets/ paths. Check presence, suitability,
+authority, non-visibility, duplicates, and excessive references. No
+generic replacement for a known canonical asset.
+
+STEP 22 — FULL PAGE/PANEL PRODUCTION PREFLIGHT
+
+COMMAND TO PASTE: Perform Step 22 for Chapter [CHAPTER]: Full page/panel
+production preflight. For every page and every panel verify complete
+source content, Setting/Action/Direction/Camera/Blocking (explicit or
+unambiguous inherited), cast visibility, props, assets, lettering
+ownership, geometry, and safe area. Check unique source IDs and exact
+content preservation. Produce page-level and panel-level reports with
+blockers distinguished from warnings.
+
+STEP 23 — SCRIPT FREEZE GATE
+
+COMMAND TO PASTE: Perform Step 23 for Chapter [CHAPTER]: Script freeze
+gate. Require zero unresolved blockers, user-approved exceptions, a full
+DOCX integrity report, and a frozen filename/hash. No SBL generation
+before this gate.
+
+GATE: Do not advance unless all required checks pass or I explicitly
+approve documented exceptions.
+
+============================================================ PHASE D —
+SBL AND RENDERING
+============================================================
+
+STEP 24 — SBL CONVERSION FROM FROZEN SCRIPT
+
+COMMAND TO PASTE: Perform Step 24 for Chapter [CHAPTER]: SBL conversion
+from frozen script. Generate the SBL as a deterministic derivative.
+Preserve stable source IDs and exact page/panel assignments. Never use
+the SBL as an independent editorial master. REQUIRED PER-PANEL RENDER
+STYLE: Populate both `image_style` (nonempty string) and `render_style`
+(object containing nonempty `description`) on EVERY panel in the base
+SBL and final SBL, including silent panels, flashbacks, and supplements.
+Use the current global/chapter production style, including any approved
+panel-specific exception; do not invent a style override. For a chapter
+whose approved default is full-color realistic manga, each panel must
+contain `"image_style": "full-color realistic manga"` and
+`"render_style": {"description": "full-color realistic manga"}`.
+The page-level style, global metadata, or external render prompt may
+supplement but NEVER replace these panel-level fields. Carry the same
+values into the per-page render JSON/package. Verify panel counts and
+source/geometry/asset preservation after conversion. Compare EVERY
+converted panel rectangle with the Step 14/14/16 approved geometry;
+fail if the SBL converter silently regenerates uniform-strip layouts.
+
+STEP 25 — SBL RELEASE VALIDATION
+
+COMMAND TO PASTE: Perform Step 25 for Chapter [CHAPTER]: SBL release
+validation. Verify schema, required field types, numeric geometry,
+page/parity/safe areas, asset paths and archive contents, character
+visibility, dialogue exactly-once ownership, all visual beats, and no
+silent omissions. MANDATORY STYLE SCHEMA GATE: Iterate EVERY panel of
+both the base SBL and final SBL and require a nonempty string
+`image_style` plus an object `render_style` with a nonempty string
+`description`. Check that the two values agree with each other and with
+the approved global/chapter style or explicitly documented panel
+exception. Validate the SAME fields in each generated page render JSON
+and render package. Fail closed on missing, null, empty, mistyped,
+contradictory, or merely page-level declarations; report exact page and
+panel IDs. Never mark a style-schema warning as PASS. Verify three
+coordinated per-page files: art PNG, transparent lettering-overlay PNG,
+and exact text TXT. Verify CSP lettering workflow, registration,
+full-color rendering, print resize/crop and folio separation. Compare
+SBL against frozen DOCX. Compare the base SBL, final SBL, and per-page
+render JSON geometry with the approved Step 14/14/16 page-by-page
+layout map; report missing/mismatched panel rectangles and layout-pattern
+regressions by page/panel ID.
+
+STEP 26 — RELEASE GATE BEFORE RENDERING
+
+COMMAND TO PASTE: Perform Step 26 for Chapter [CHAPTER]: Release gate
+before rendering. Require machine-readable PASS for all structural
+checks, including the per-panel image-style schema and a representative
+per-page render-package round-trip test, plus documented human review
+of semantic/layout risks. No rendering on warnings disguised as passes.
+If a render attempt reports a missing required field, repair the SBL
+conversion/validation process for the entire chapter, regenerate all
+affected JSON files and page packages, and rerun Steps 24–25 before
+rendering resumes.
+
+GATE: Do not advance unless all required checks pass or I explicitly
+approve documented exceptions.
+
+STEP 27 — RENDER-REVIEW AND PRODUCTION QA
+
+COMMAND TO PASTE: Perform Step 27 for Chapter [CHAPTER]: Render-review
+and production QA. Render only after release. Compare output to script
+for character appearance, action, dialogue tails, lettering, camera,
+blocking, continuity, art style, and safe area. Fix structural problems
+in the DOCX and regenerate dependent SBL; do not repeatedly prompt
+around structural defects. Validate art/lettering registration and print
+pipeline before final delivery.
+
+============================================================ MANDATORY
+CHANGE-CONTROL COMMAND (USE AFTER ANY REVISION)
+============================================================
+
+Compare the new Chapter [CHAPTER] DOCX with the last approved version.
+Verify all stable scene, dialogue, narration, and visual-beat IDs;
+compare exact reader-visible text and intended action. Report additions,
+deletions, duplicates, and moved material. Recheck every dependency
+affected by the change, including pagination/parity, geometry, geometric-layout rhythm, Step
+14 pattern inventory, lettering, asset bindings, continuity, and
+SBL correspondence as
+applicable. Repair any new errors and repeat validation until no
+blockers remain. Return the verified DOCX.
+
+============================================================ WHEN YOU
+NEED TO ADD PAGES
+============================================================
+
+Perform a controlled page expansion of Chapter [CHAPTER] in the complete
+working DOCX. Preserve every approved dialogue unit and visual beat
+exactly once. Reassign scenes and panels, create explicit
+silent-continuation instructions where needed, recalculate all
+downstream page numbers, recto/verso parity, safe areas, page turns, and
+guide placement, and recheck lettering fit AND Step 14 geometric-
+layout diversity. Prefer paired page
+insertions when useful, but prioritize storytelling. Do not modify
+geometry JSON alone. Verify the resulting DOCX contains the actual scene
+content on the correct pages, not merely headings.
+
+============================================================ FINAL
+REMINDER ============================================================
+
+A panel-count-rhythm PASS does not establish geometric-layout diversity.
+The Step 14 layout inventory and Step 15 lettering-fit validation must
+precede layout approval; SBL geometry must preserve the approved map.
+A structural PASS is not a complete production PASS. Freeze only after
+content preservation, panel direction, asset suitability, lettering fit,
+page parity, and production requirements have been verified.

@@ -1,0 +1,158 @@
+COMIC SCRIPT SYNTAX
+
+Speech:
+(Character: "text")
+One speech bubble. Tail points only to that character.
+
+Multiple speech bubbles:
+(Character: "text 1"
+-> "text 2"
+-> "text 3")
+A chain of connected speech bubbles belonging to ONE speaker.
+There must be ONLY ONE tail on the connected chain, and it must point to that character.
+
+Thought:
+(Character (thinking): "text")
+Cloud-shaped thought bubble.
+Thought dots point only to that character.
+
+Multiple thought bubbles:
+(Character (thinking): "text 1"
+-> "text 2")
+A chain of connected thought bubbles.
+Only one chain of thought dots points to that character.
+
+Never attribute dialogue to any character not named.
+Never draw an extra bubble tail.
+Never draw a thought bubble unless '(thinking)' is specified.
+
+Font:
+Comic Lettering Standard (STRICT):
+Use a clean, rounded comic sans-serif lettering style matching Chapter 11 Page 4.
+Use ALL CAPS.
+Do not use bold text.
+Do not use italic text except for emphasis.
+Maintain consistent letter size throughout the page.
+All speech bubbles on the page must use the same lettering style. Do not vary fonts, weight, capitalization, or style between bubbles.
+
+Panel Composition
+Never crop off the speaking character.
+Always show the speaker unless the script explicitly requests an off-panel voice.
+Keep speech bubbles inside the panel boundary.
+Do not overlap faces with speech bubbles unless unavoidable.
+Preserve left-to-right reading order for speech.
+
+
+CANONICAL REFERENCES (always included)
+
+The attached character sheets are the sole authoritative references for Adnil, Naandeen, and Zarleen.
+
+These attributes are locked:
+• face construction
+• hair color/style/length
+• eye color
+• body build
+• skin tone
+• academy uniform
+• proportions
+• posture and demeanor
+
+If the comic page differs from the reference sheets, correct the page to match the reference sheets.
+
+Do not make any other creative changes.
+
+
+
+Zora:
+
+No panel numbers
+No page numbers
+8.5x11" page size
+Zoran males have white hair
+Zoran females have platinum blonde hair
+All Zorans have human ears
+Zoran script/text consists of shapes: circles, rectangles, triangles, pentagons, dots, etc. 
+This does not apply to narration or dialog boxes, only text within the environment
+Doors in Zora do not have handles, they are opened using mana. They slide horizontally into the wall.
+All Zoran magical academy cadets where the standard academy 
+uniform unless otherwise specified.
+
+Cast uniforms:
+Adnil: distinctly short, her canonical permissive version.
+Naandeen: standard regulation length, above the knee, exactly as on her production sheet.
+Zarleen: standard regulation length, above the knee, exactly as on her production sheet.
+Midori: unique modified length, below the knee and ending immediately above the tops of her knee-high socks, 
+exactly as on her new production sheet and the Midori uniform sheet.
+
+
+
+Background Extras (Canon)
+Background students are anonymous and must never resemble the principal cast.
+Female Zorans may vary in hairstyle (bob, shoulder-length, waist-length, braided, 
+ponytail, bun, etc.) but always retain platinum-blonde hair in varying shades from pale 
+platinum to warm champagne blonde.
+Male Zorans always have white hair with varied hairstyles.
+Heights, builds, facial structures, and skin tones should vary naturally.
+Background characters should never become the visual focus unless called out by the script.
+Population realism: Unless a character is specifically identified as a major recurring 
+character, background people should be generated with realistic variation in attractiveness, 
+age, physique, facial symmetry, and grooming. Anonymous crowds should resemble a cross-section 
+of ordinary people rather than a cast of idealized models.
+Avoid "fashion catalog syndrome."
+The students should resemble a real population rather than a cast of models.
+Approximately:
+15% exceptionally attractive
+35% above average
+30% average
+15% plain
+5% distinctly unattractive
+Include natural diversity in:
+face shape
+nose size
+jaw shape
+body proportions
+posture
+hairstyle
+age appearance
+height
+weight
+Some students should be:
+slightly overweight
+stocky
+lanky
+awkward
+freckled
+asymmetrical
+tired-looking
+acne-prone
+older-looking
+less fashionable
+Avoid making every anonymous student young, slim, symmetrical, and conventionally beautiful.
+
+
+Nyas:
+
+No panel numbers
+No page numbers
+8.5x11" page size
+Nyassians can have different hair colors
+All Nysassians have elven ears
+
+
+
+DOTG:
+
+No panel numbers
+No page numbers
+8.5x11" page size
+Use character sheets for Nyssara, Terra, and Zorna
+Use the World Observeration Area set sheet for the background
+Zorna and Terra have human ears
+Nyssara has elf ears
+
+Aokawa:
+No panel numbers
+No page numbers
+8.5x11" page size
+All humans have human ears.
+

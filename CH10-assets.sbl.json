@@ -1,0 +1,131 @@
+{
+  "library": {
+    "id": "IAKESI-CH10-ASSETS",
+    "specification": {
+      "name": "SBL",
+      "version": "1.0",
+      "exact": true
+    },
+    "chapter": "IAKESI-CH10",
+    "root": "Assets",
+    "resources": {
+      "shrine_maiden_costume_production_sheet": {
+        "type": "image",
+        "file": "Assets/Shrine-Maiden-Costume-Production-Sheet.png"
+      },
+      "zorna_canonical_character_specification": {
+        "type": "text",
+        "file": "Assets/Zorna-canonical-character-specification.txt"
+      },
+      "high_priestess_seraphine_s_office_suite": {
+        "type": "image",
+        "file": "Assets/High-Priestess-Seraphine’s-Office-Suite.png"
+      },
+      "temple_of_light_evolution_sheet": {
+        "type": "image",
+        "file": "Assets/Temple-of-Light-Evolution-Sheet.png"
+      },
+      "midori_character_sheet_13b": {
+        "type": "image",
+        "file": "Assets/Midori Character Sheet 13B.png"
+      },
+      "midori_character_sheet_13c": {
+        "type": "image",
+        "file": "Assets/Midori Character Sheet 13C.png"
+      },
+      "helena_model_sheet": {
+        "type": "image",
+        "file": "Assets/Helena Model Sheet.png"
+      },
+      "zorna_character_sheet": {
+        "type": "image",
+        "file": "Assets/Zorna-character-sheet.png"
+      },
+      "midori_character_sheet_13a": {
+        "type": "image",
+        "file": "Assets/Midori Character Sheet 13A.png"
+      },
+      "celeste_character_sheet": {
+        "type": "image",
+        "file": "Assets/Celeste Character Sheet.png"
+      },
+      "lucia_character_sheet": {
+        "type": "image",
+        "file": "Assets/Lucia Character Sheet.png"
+      },
+      "lucia_model_sheet": {
+        "type": "image",
+        "file": "Assets/Lucia model sheet.png"
+      },
+      "temple_of_light_mature_exterior": {
+        "type": "image",
+        "file": "Assets/Temple-of-Light-Mature-Exterior.png"
+      },
+      "woa_canonical_production_specification": {
+        "type": "text",
+        "file": "Assets/WOA-canonical-production-specification.txt"
+      },
+      "zorna_expression_sheet": {
+        "type": "image",
+        "file": "Assets/Zorna-expression-sheet.png"
+      },
+      "sherin_character_sheet": {
+        "type": "image",
+        "file": "Assets/Sherin-Character-Sheet.png"
+      },
+      "eliane_character_sheet": {
+        "type": "image",
+        "file": "Assets/Eliane Character Sheet.png"
+      },
+      "woa_observation_field_states_sheet": {
+        "type": "image",
+        "file": "Assets/WOA-observation-field-states-sheet.png"
+      },
+      "frenklyn_character_sheet": {
+        "type": "image",
+        "file": "Assets/Frenklyn-Character-Sheet.png"
+      },
+      "aurelia_character_sheet": {
+        "type": "image",
+        "file": "Assets/Aurelia Character Sheet.png"
+      },
+      "crystal_vault_temple_of_light": {
+        "type": "image",
+        "file": "Assets/Crystal-Vault-Temple-of-Light.png"
+      },
+      "lucia_expression_sheet": {
+        "type": "image",
+        "file": "Assets/Lucia Expression Sheet.png"
+      },
+      "woa_production_sheet": {
+        "type": "image",
+        "file": "Assets/WOA-production-sheet.png"
+      },
+      "woa_production_sheet_plus_map": {
+        "type": "image",
+        "file": "Assets/WOA-production-sheet-plus-map.png"
+      },
+      "roselyn_character_sheet": {
+        "type": "image",
+        "file": "Assets/Roselyn Character Sheet.png"
+      },
+      "seraphine_character_sheet": {
+        "type": "image",
+        "file": "Assets/Seraphine character sheet.png"
+      },
+      "temple_clothing_evolution_sheet": {
+        "type": "image",
+        "file": "Assets/Temple-Clothing-Evolution-Sheet.png"
+      },
+      "temple_lavatory_fixture_reference_sheet": {
+        "type": "image",
+        "file": "Assets/Temple-Lavatory-Fixture-Reference-Sheet.png"
+      }
+    },
+    "rules": [
+      "Paths are relative and case/punctuation sensitive.",
+      "Canonical assets override inference.",
+      "Bind only visible/directly controlling assets."
+    ]
+  }
+}

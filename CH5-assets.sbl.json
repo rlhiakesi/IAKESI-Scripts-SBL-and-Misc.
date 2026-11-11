@@ -1,0 +1,410 @@
+{
+  "library": {
+    "id": "IAKESI-CH5-Assets",
+    "specification": {
+      "name": "SBL",
+      "version": "1.0"
+    },
+    "resources": {
+      "Jeremiel-Elderly-Frail-Character-Sheet.png": {
+        "type": "image",
+        "file": "Assets/Jeremiel-Elderly-Frail-Character-Sheet.png",
+        "purposes": [
+          "character_identity",
+          "color_reference",
+          "scale_reference"
+        ]
+      },
+      "Jeremiel-canonical-character-specification.txt": {
+        "type": "text",
+        "file": "Assets/Jeremiel-canonical-character-specification.txt",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "Jeremiel-character-sheet.png": {
+        "type": "image",
+        "file": "Assets/Jeremiel-character-sheet.png",
+        "purposes": [
+          "character_identity",
+          "color_reference",
+          "scale_reference"
+        ]
+      },
+      "Jeremiel-expression-sheet.png": {
+        "type": "image",
+        "file": "Assets/Jeremiel-expression-sheet.png",
+        "purposes": [
+          "expression_reference"
+        ]
+      },
+      "Josia-character-sheet.png": {
+        "type": "image",
+        "file": "Assets/Josia-character-sheet.png",
+        "purposes": [
+          "character_identity",
+          "color_reference",
+          "scale_reference"
+        ]
+      },
+      "Light-Healing-and-Illusion-Training-Technical-Sheet.png": {
+        "type": "image",
+        "file": "Assets/Light-Healing-and-Illusion-Training-Technical-Sheet.png",
+        "purposes": [
+          "prop_identity",
+          "location_identity",
+          "visual_inspiration"
+        ]
+      },
+      "Mage-Corps-Training-and-Field-Equipment-Sheet.png": {
+        "type": "image",
+        "file": "Assets/Mage-Corps-Training-and-Field-Equipment-Sheet.png",
+        "purposes": [
+          "prop_identity",
+          "location_identity",
+          "visual_inspiration"
+        ]
+      },
+      "Mana-Capacity-and-Affinity-Testing-Technical-Sheet.png": {
+        "type": "image",
+        "file": "Assets/Mana-Capacity-and-Affinity-Testing-Technical-Sheet.png",
+        "purposes": [
+          "prop_identity",
+          "location_identity",
+          "visual_inspiration"
+        ]
+      },
+      "Nyassarian_Language_and_Script.docx": {
+        "type": "binary",
+        "file": "Assets/Nyassarian_Language_and_Script.docx",
+        "purposes": [
+          "diegetic_text_reference",
+          "visual_inspiration"
+        ]
+      },
+      "Nyssara-canonical-character-specification.txt": {
+        "type": "text",
+        "file": "Assets/Nyssara-canonical-character-specification.txt",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "Nyssara-character-sheet.png": {
+        "type": "image",
+        "file": "Assets/Nyssara-character-sheet.png",
+        "purposes": [
+          "character_identity",
+          "color_reference",
+          "scale_reference"
+        ]
+      },
+      "Nyssara-expression-sheet.png": {
+        "type": "image",
+        "file": "Assets/Nyssara-expression-sheet.png",
+        "purposes": [
+          "expression_reference"
+        ]
+      },
+      "Recurring-Population-and-Costume-Sheet.png": {
+        "type": "image",
+        "file": "Assets/Recurring-Population-and-Costume-Sheet.png",
+        "purposes": [
+          "costume_reference",
+          "population_reference"
+        ]
+      },
+      "Royal-Assembly-Chamber-production-sheet.png": {
+        "type": "image",
+        "file": "Assets/Royal-Assembly-Chamber-production-sheet.png",
+        "purposes": [
+          "prop_identity",
+          "location_identity",
+          "visual_inspiration"
+        ]
+      },
+      "Six-Schools-symbols-and-diagrams-production-sheet.png": {
+        "type": "image",
+        "file": "Assets/Six-Schools-symbols-and-diagrams-production-sheet.png",
+        "purposes": [
+          "prop_identity",
+          "location_identity",
+          "visual_inspiration"
+        ]
+      },
+      "Terra-canonical-character-specification.txt": {
+        "type": "text",
+        "file": "Assets/Terra-canonical-character-specification.txt",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "Terra-character-sheet.png": {
+        "type": "image",
+        "file": "Assets/Terra-character-sheet.png",
+        "purposes": [
+          "character_identity",
+          "color_reference",
+          "scale_reference"
+        ]
+      },
+      "Terra-expression-sheet.png": {
+        "type": "image",
+        "file": "Assets/Terra-expression-sheet.png",
+        "purposes": [
+          "expression_reference"
+        ]
+      },
+      "Transmutation-Scientific-Method-Technical-Sheet.png": {
+        "type": "image",
+        "file": "Assets/Transmutation-Scientific-Method-Technical-Sheet.png",
+        "purposes": [
+          "prop_identity",
+          "location_identity",
+          "visual_inspiration"
+        ]
+      },
+      "WOA-canonical-production-specification.txt": {
+        "type": "text",
+        "file": "Assets/WOA-canonical-production-specification.txt",
+        "purposes": [
+          "visual_inspiration"
+        ]
+      },
+      "WOA-observation-field-states-sheet.png": {
+        "type": "image",
+        "file": "Assets/WOA-observation-field-states-sheet.png",
+        "purposes": [
+          "visual_inspiration"
+        ]
+      },
+      "WOA-production-sheet-plus-map.png": {
+        "type": "image",
+        "file": "Assets/WOA-production-sheet-plus-map.png",
+        "purposes": [
+          "location_identity",
+          "geography_reference"
+        ]
+      },
+      "WOA-production-sheet.png": {
+        "type": "image",
+        "file": "Assets/WOA-production-sheet.png",
+        "purposes": [
+          "prop_identity",
+          "location_identity",
+          "visual_inspiration"
+        ]
+      },
+      "WOA-time-compression-display-specification.txt": {
+        "type": "text",
+        "file": "Assets/WOA-time-compression-display-specification.txt",
+        "purposes": [
+          "visual_inspiration"
+        ]
+      },
+      "Zora-Nyas-technology-timeline.txt": {
+        "type": "text",
+        "file": "Assets/Zora-Nyas-technology-timeline.txt",
+        "purposes": [
+          "visual_inspiration"
+        ]
+      },
+      "Zora-Nyas-world-map.png": {
+        "type": "image",
+        "file": "Assets/Zora-Nyas-world-map.png",
+        "purposes": [
+          "location_identity",
+          "geography_reference"
+        ]
+      },
+      "Zora-Nyas-writing-systems-renderer-spec.txt": {
+        "type": "text",
+        "file": "Assets/Zora-Nyas-writing-systems-renderer-spec.txt",
+        "purposes": [
+          "diegetic_text_reference",
+          "visual_inspiration"
+        ]
+      },
+      "Zora-Nyas-writing-systems-sheet.png": {
+        "type": "image",
+        "file": "Assets/Zora-Nyas-writing-systems-sheet.png",
+        "purposes": [
+          "diegetic_text_reference",
+          "visual_inspiration"
+        ]
+      },
+      "Zora-cultural-development-specification.txt": {
+        "type": "text",
+        "file": "Assets/Zora-cultural-development-specification.txt",
+        "purposes": [
+          "visual_inspiration"
+        ]
+      },
+      "Zora-mana-effects-sheet.png": {
+        "type": "image",
+        "file": "Assets/Zora-mana-effects-sheet.png",
+        "purposes": [
+          "effect_reference",
+          "visual_inspiration"
+        ]
+      },
+      "Zoran-mana-crystals-production-sheet.png": {
+        "type": "image",
+        "file": "Assets/Zoran-mana-crystals-production-sheet.png",
+        "purposes": [
+          "prop_identity",
+          "effect_reference"
+        ]
+      },
+      "Zoran-research-laboratory-production-sheet.png": {
+        "type": "image",
+        "file": "Assets/Zoran-research-laboratory-production-sheet.png",
+        "purposes": [
+          "prop_identity",
+          "location_identity",
+          "visual_inspiration"
+        ]
+      },
+      "Zoran_Language_and_script.docx": {
+        "type": "binary",
+        "file": "Assets/Zoran_Language_and_script.docx",
+        "purposes": [
+          "diegetic_text_reference",
+          "visual_inspiration"
+        ]
+      },
+      "Zorna-canonical-character-specification.txt": {
+        "type": "text",
+        "file": "Assets/Zorna-canonical-character-specification.txt",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "Zorna-character-sheet.png": {
+        "type": "image",
+        "file": "Assets/Zorna-character-sheet.png",
+        "purposes": [
+          "character_identity",
+          "color_reference",
+          "scale_reference"
+        ]
+      },
+      "Zorna-expression-sheet.png": {
+        "type": "image",
+        "file": "Assets/Zorna-expression-sheet.png",
+        "purposes": [
+          "expression_reference"
+        ]
+      },
+      "demon Sketch.png": {
+        "type": "image",
+        "file": "Assets/demon Sketch.png",
+        "purposes": [
+          "prop_identity",
+          "visual_inspiration"
+        ]
+      }
+    },
+    "characters": {
+      "jeremiel": {
+        "id": "jeremiel",
+        "name": "Jeremiel",
+        "references": [
+          {
+            "resource": "Jeremiel-character-sheet.png",
+            "purpose": "character_identity",
+            "requirement": "required"
+          },
+          {
+            "resource": "Jeremiel-expression-sheet.png",
+            "purpose": "expression_reference",
+            "requirement": "required"
+          },
+          {
+            "resource": "Jeremiel-canonical-character-specification.txt",
+            "purpose": "character_identity",
+            "requirement": "required"
+          },
+          {
+            "resource": "Jeremiel-Elderly-Frail-Character-Sheet.png",
+            "purpose": "age_variant_reference",
+            "requirement": "conditional"
+          }
+        ]
+      },
+      "josia": {
+        "id": "josia",
+        "name": "Josia",
+        "references": [
+          {
+            "resource": "Josia-character-sheet.png",
+            "purpose": "character_identity",
+            "requirement": "required"
+          }
+        ]
+      },
+      "zorna": {
+        "id": "zorna",
+        "name": "Zorna",
+        "references": [
+          {
+            "resource": "Zorna-character-sheet.png",
+            "purpose": "character_identity",
+            "requirement": "required"
+          },
+          {
+            "resource": "Zorna-expression-sheet.png",
+            "purpose": "expression_reference",
+            "requirement": "required"
+          },
+          {
+            "resource": "Zorna-canonical-character-specification.txt",
+            "purpose": "character_identity",
+            "requirement": "required"
+          }
+        ]
+      },
+      "nyssara": {
+        "id": "nyssara",
+        "name": "Nyssara",
+        "references": [
+          {
+            "resource": "Nyssara-character-sheet.png",
+            "purpose": "character_identity",
+            "requirement": "required"
+          },
+          {
+            "resource": "Nyssara-expression-sheet.png",
+            "purpose": "expression_reference",
+            "requirement": "required"
+          },
+          {
+            "resource": "Nyssara-canonical-character-specification.txt",
+            "purpose": "character_identity",
+            "requirement": "required"
+          }
+        ]
+      },
+      "terra": {
+        "id": "terra",
+        "name": "Terra",
+        "references": [
+          {
+            "resource": "Terra-character-sheet.png",
+            "purpose": "character_identity",
+            "requirement": "required"
+          },
+          {
+            "resource": "Terra-expression-sheet.png",
+            "purpose": "expression_reference",
+            "requirement": "required"
+          },
+          {
+            "resource": "Terra-canonical-character-specification.txt",
+            "purpose": "character_identity",
+            "requirement": "required"
+          }
+        ]
+      }
+    }
+  }
+}

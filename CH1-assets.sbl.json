@@ -1,0 +1,342 @@
+{
+  "library": {
+    "id": "CH1-assets",
+    "specification": {
+      "name": "SBL",
+      "version": "1.0",
+      "exact": true
+    },
+    "resources": {
+      "alpha_character_sheet": {
+        "type": "image",
+        "file": "Assets/Alpha-Character-Sheet.png",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "alpha_expression_sheet": {
+        "type": "image",
+        "file": "Assets/Alpha-expression-sheet.png",
+        "purposes": [
+          "expression_reference"
+        ]
+      },
+      "alpha_balcony": {
+        "type": "image",
+        "file": "Assets/Alpha_Balcony.png",
+        "purposes": [
+          "style_reference",
+          "location_identity",
+          "architecture_reference"
+        ]
+      },
+      "alpha_canonical_character_specification": {
+        "type": "text",
+        "file": "Assets/Alpha_Canonical_Character_Specification.txt",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "aurelia_character_sheet": {
+        "type": "image",
+        "file": "Assets/Aurelia-Character-Sheet.png",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "babel_1": {
+        "type": "image",
+        "file": "Assets/Babel-1.png",
+        "purposes": [
+          "style_reference"
+        ]
+      },
+      "babel_2": {
+        "type": "image",
+        "file": "Assets/Babel-2.png",
+        "purposes": [
+          "style_reference"
+        ]
+      },
+      "babel_3": {
+        "type": "image",
+        "file": "Assets/Babel-3.png",
+        "purposes": [
+          "style_reference"
+        ]
+      },
+      "babel_4": {
+        "type": "image",
+        "file": "Assets/Babel-4.png",
+        "purposes": [
+          "style_reference"
+        ]
+      },
+      "cog_table_production_sheet": {
+        "type": "image",
+        "file": "Assets/COG-table-production-sheet.png",
+        "purposes": [
+          "location_identity",
+          "architecture_reference"
+        ]
+      },
+      "cog_table_and_chairs_canonical_production_specification": {
+        "type": "text",
+        "file": "Assets/COG_Table_and_Chairs_Canonical_Production_Specification.txt",
+        "purposes": [
+          "location_identity",
+          "architecture_reference"
+        ]
+      },
+      "dinosaurs": {
+        "type": "image",
+        "file": "Assets/dinosaurs.png",
+        "purposes": [
+          "style_reference"
+        ]
+      },
+      "generationalchanges": {
+        "type": "image",
+        "file": "Assets/GenerationalChanges.png",
+        "purposes": [
+          "style_reference"
+        ]
+      },
+      "joan_a_character_sheet": {
+        "type": "image",
+        "file": "Assets/Joan-a-Character-Sheet.png",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "lucy_character_sheet": {
+        "type": "image",
+        "file": "Assets/Lucy-Character-Sheet.png",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "lucy_furrier_canonical_character_specification": {
+        "type": "text",
+        "file": "Assets/Lucy_Furrier_Canonical_Character_Specification.txt",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "lunaria_character_sheet": {
+        "type": "image",
+        "file": "Assets/Lunaria-Character-Sheet.png",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "mortheus_character_sheet": {
+        "type": "image",
+        "file": "Assets/Mortheus-Character-Sheet.png",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "nineva_1": {
+        "type": "image",
+        "file": "Assets/Nineva-1.png",
+        "purposes": [
+          "style_reference"
+        ]
+      },
+      "nineva_2": {
+        "type": "image",
+        "file": "Assets/Nineva-2.png",
+        "purposes": [
+          "style_reference"
+        ]
+      },
+      "nineva_3": {
+        "type": "image",
+        "file": "Assets/Nineva-3.png",
+        "purposes": [
+          "style_reference"
+        ]
+      },
+      "nivara_character_sheet": {
+        "type": "image",
+        "file": "Assets/Nivara-Character-Sheet.png",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "noah_1": {
+        "type": "image",
+        "file": "Assets/Noah-1.png",
+        "purposes": [
+          "style_reference"
+        ]
+      },
+      "noah_2": {
+        "type": "image",
+        "file": "Assets/Noah-2.png",
+        "purposes": [
+          "style_reference"
+        ]
+      },
+      "noah_3": {
+        "type": "image",
+        "file": "Assets/Noah-3.png",
+        "purposes": [
+          "style_reference"
+        ]
+      },
+      "nyssara_character_sheet": {
+        "type": "image",
+        "file": "Assets/Nyssara-Character-Sheet.png",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "nyssara_expression_sheet": {
+        "type": "image",
+        "file": "Assets/Nyssara-Expression-Sheet.png",
+        "purposes": [
+          "expression_reference"
+        ]
+      },
+      "nyssara_canonical_character_specification": {
+        "type": "text",
+        "file": "Assets/Nyssara_Canonical_Character_Specification.txt",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "p1_suggestion": {
+        "type": "image",
+        "file": "Assets/P1-Suggestion.png",
+        "purposes": [
+          "style_reference"
+        ]
+      },
+      "p2_suggestion": {
+        "type": "image",
+        "file": "Assets/P2-Suggestion.png",
+        "purposes": [
+          "style_reference"
+        ]
+      },
+      "p6_inspiration": {
+        "type": "image",
+        "file": "Assets/P6-Inspiration.png",
+        "purposes": [
+          "style_reference"
+        ]
+      },
+      "pyrael_character_sheet": {
+        "type": "image",
+        "file": "Assets/Pyrael-Character-Sheet.png",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "soul_relocation_area_canonical_production_specification": {
+        "type": "text",
+        "file": "Assets/Soul_Relocation_Area_Canonical_Production_Specification.txt",
+        "purposes": [
+          "location_identity",
+          "architecture_reference"
+        ]
+      },
+      "sra_production_sheet": {
+        "type": "image",
+        "file": "Assets/SRA-production-sheet.png",
+        "purposes": [
+          "location_identity",
+          "architecture_reference"
+        ]
+      },
+      "terra_character_sheet": {
+        "type": "image",
+        "file": "Assets/Terra-Character-Sheet.png",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "terra_expression_sheet": {
+        "type": "image",
+        "file": "Assets/Terra-Expression-Sheet.png",
+        "purposes": [
+          "expression_reference"
+        ]
+      },
+      "terra_canonical_character_specification": {
+        "type": "text",
+        "file": "Assets/Terra_Canonical_Character_Specification.txt",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "thalassor_character_sheet": {
+        "type": "image",
+        "file": "Assets/Thalassor-Character-Sheet.png",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "verdania_character_sheet": {
+        "type": "image",
+        "file": "Assets/Verdania-Character-Sheet.png",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "vortex_character_sheet": {
+        "type": "image",
+        "file": "Assets/Vortex-Character-Sheet.png",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "woa_production_sheet": {
+        "type": "image",
+        "file": "Assets/WOA-production-sheet.png",
+        "purposes": [
+          "location_identity",
+          "architecture_reference"
+        ]
+      },
+      "world_observation_area_canonical_production_specification": {
+        "type": "text",
+        "file": "Assets/World_Observation_Area_Canonical_Production_Specification.txt",
+        "purposes": [
+          "location_identity",
+          "architecture_reference"
+        ]
+      },
+      "yoji_and_the_gate_fan_art": {
+        "type": "image",
+        "file": "Assets/Yoji_and_the_Gate_fan_art.png",
+        "purposes": [
+          "style_reference"
+        ]
+      },
+      "zorna_character_sheet": {
+        "type": "image",
+        "file": "Assets/Zorna-Character-Sheet.png",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "zorna_expression_sheet": {
+        "type": "image",
+        "file": "Assets/Zorna-Expression-Sheet.png",
+        "purposes": [
+          "expression_reference"
+        ]
+      },
+      "zorna_canonical_character_specification": {
+        "type": "text",
+        "file": "Assets/Zorna_Canonical_Character_Specification.txt",
+        "purposes": [
+          "character_identity"
+        ]
+      }
+    }
+  }
+}

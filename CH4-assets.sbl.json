@@ -1,0 +1,363 @@
+{
+  "library": {
+    "id": "IAKESI-CH4-Assets",
+    "specification": {
+      "name": "SBL",
+      "version": "1.0"
+    },
+    "resources": {
+      "Zora-cultural-development-specification.txt": {
+        "type": "text",
+        "file": "Assets/Zora-cultural-development-specification.txt",
+        "purposes": [
+          "location_identity",
+          "architecture_reference",
+          "visual_inspiration"
+        ]
+      },
+      "Royal-Assembly-Chamber-production-sheet.png": {
+        "type": "image",
+        "file": "Assets/Royal-Assembly-Chamber-production-sheet.png",
+        "purposes": [
+          "location_identity",
+          "architecture_reference",
+          "visual_inspiration"
+        ]
+      },
+      "Jeremiel-character-sheet.png": {
+        "type": "image",
+        "file": "Assets/Jeremiel-character-sheet.png",
+        "purposes": [
+          "character_identity",
+          "color_reference",
+          "scale_reference"
+        ]
+      },
+      "Jeremiel-expression-sheet.png": {
+        "type": "image",
+        "file": "Assets/Jeremiel-expression-sheet.png",
+        "purposes": [
+          "expression_reference"
+        ]
+      },
+      "Jeremiel-canonical-character-specification.txt": {
+        "type": "text",
+        "file": "Assets/Jeremiel-canonical-character-specification.txt",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "Zoren-character-sheet.png": {
+        "type": "image",
+        "file": "Assets/Zoren-character-sheet.png",
+        "purposes": [
+          "character_identity",
+          "color_reference",
+          "scale_reference"
+        ]
+      },
+      "Zoren-expression-sheet.png": {
+        "type": "image",
+        "file": "Assets/Zoren-expression-sheet.png",
+        "purposes": [
+          "expression_reference"
+        ]
+      },
+      "Zoren-canonical-character-specification.txt": {
+        "type": "text",
+        "file": "Assets/Zoren-canonical-character-specification.txt",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "Zoran_Language_and_script.docx": {
+        "type": "binary",
+        "file": "Assets/Zoran_Language_and_script.docx",
+        "purposes": [
+          "diegetic_text_reference",
+          "visual_inspiration"
+        ]
+      },
+      "Zora-Nyas-writing-systems-sheet.png": {
+        "type": "image",
+        "file": "Assets/Zora-Nyas-writing-systems-sheet.png",
+        "purposes": [
+          "diegetic_text_reference",
+          "visual_inspiration"
+        ]
+      },
+      "Zora-Nyas-writing-systems-renderer-spec.txt": {
+        "type": "text",
+        "file": "Assets/Zora-Nyas-writing-systems-renderer-spec.txt",
+        "purposes": [
+          "diegetic_text_reference",
+          "visual_inspiration"
+        ]
+      },
+      "Tomas-character-sheet.png": {
+        "type": "image",
+        "file": "Assets/Tomas-character-sheet.png",
+        "purposes": [
+          "character_identity",
+          "color_reference",
+          "scale_reference"
+        ]
+      },
+      "Tomas-expression-sheet.png": {
+        "type": "image",
+        "file": "Assets/Tomas-expression-sheet.png",
+        "purposes": [
+          "expression_reference"
+        ]
+      },
+      "Tomas-canonical-character-specification.txt": {
+        "type": "text",
+        "file": "Assets/Tomas-canonical-character-specification.txt",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "Six-Schools-symbols-and-diagrams-production-sheet.png": {
+        "type": "image",
+        "file": "Assets/Six-Schools-symbols-and-diagrams-production-sheet.png",
+        "purposes": [
+          "prop_identity",
+          "diegetic_text_reference"
+        ]
+      },
+      "Jeremiel-Home-production-sheet.png": {
+        "type": "image",
+        "file": "Assets/Jeremiel-Home-production-sheet.png",
+        "purposes": [
+          "location_identity",
+          "architecture_reference",
+          "visual_inspiration"
+        ]
+      },
+      "Huldarah-temple-residence-production-sheet.png": {
+        "type": "image",
+        "file": "Assets/Huldarah-temple-residence-production-sheet.png",
+        "purposes": [
+          "location_identity",
+          "architecture_reference",
+          "visual_inspiration"
+        ]
+      },
+      "Huldarah-character-sheet.png": {
+        "type": "image",
+        "file": "Assets/Huldarah-character-sheet.png",
+        "purposes": [
+          "character_identity",
+          "color_reference",
+          "scale_reference"
+        ]
+      },
+      "Huldarah-expression-sheet.png": {
+        "type": "image",
+        "file": "Assets/Huldarah-expression-sheet.png",
+        "purposes": [
+          "expression_reference"
+        ]
+      },
+      "Huldarah-canonical-character-specification.txt": {
+        "type": "text",
+        "file": "Assets/Huldarah-canonical-character-specification.txt",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "Zorna-character-sheet.png": {
+        "type": "image",
+        "file": "Assets/Zorna-character-sheet.png",
+        "purposes": [
+          "character_identity",
+          "color_reference",
+          "scale_reference"
+        ]
+      },
+      "Zorna-expression-sheet.png": {
+        "type": "image",
+        "file": "Assets/Zorna-expression-sheet.png",
+        "purposes": [
+          "expression_reference"
+        ]
+      },
+      "Zorna-canonical-character-specification.txt": {
+        "type": "text",
+        "file": "Assets/Zorna-canonical-character-specification.txt",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "Zora-mana-effects-sheet.png": {
+        "type": "image",
+        "file": "Assets/Zora-mana-effects-sheet.png",
+        "purposes": [
+          "effect_reference",
+          "visual_inspiration"
+        ]
+      },
+      "Mount-Elar-expedition-environment.png": {
+        "type": "image",
+        "file": "Assets/Mount-Elar-expedition-environment.png",
+        "purposes": [
+          "location_identity",
+          "architecture_reference",
+          "visual_inspiration"
+        ]
+      },
+      "Zoran-mana-crystals-production-sheet.png": {
+        "type": "image",
+        "file": "Assets/Zoran-mana-crystals-production-sheet.png",
+        "purposes": [
+          "prop_identity",
+          "effect_reference"
+        ]
+      },
+      "demon Sketch.png": {
+        "type": "image",
+        "file": "Assets/demon Sketch.png",
+        "purposes": [
+          "character_identity",
+          "visual_inspiration"
+        ]
+      },
+      "Josia-character-sheet.png": {
+        "type": "image",
+        "file": "Assets/Josia-character-sheet.png",
+        "purposes": [
+          "character_identity",
+          "color_reference",
+          "scale_reference"
+        ]
+      },
+      "Zoran-research-laboratory-production-sheet.png": {
+        "type": "image",
+        "file": "Assets/Zoran-research-laboratory-production-sheet.png",
+        "purposes": [
+          "location_identity",
+          "architecture_reference",
+          "visual_inspiration"
+        ]
+      }
+    },
+    "characters": {
+      "jeremiel": {
+        "id": "jeremiel",
+        "name": "Jeremiel",
+        "references": [
+          {
+            "resource": "Jeremiel-character-sheet.png",
+            "purpose": "character_identity",
+            "requirement": "required"
+          },
+          {
+            "resource": "Jeremiel-expression-sheet.png",
+            "purpose": "expression_reference",
+            "requirement": "required"
+          },
+          {
+            "resource": "Jeremiel-canonical-character-specification.txt",
+            "purpose": "character_identity",
+            "requirement": "required"
+          }
+        ]
+      },
+      "zoren": {
+        "id": "zoren",
+        "name": "Zoren",
+        "references": [
+          {
+            "resource": "Zoren-character-sheet.png",
+            "purpose": "character_identity",
+            "requirement": "required"
+          },
+          {
+            "resource": "Zoren-expression-sheet.png",
+            "purpose": "expression_reference",
+            "requirement": "required"
+          },
+          {
+            "resource": "Zoren-canonical-character-specification.txt",
+            "purpose": "character_identity",
+            "requirement": "required"
+          }
+        ]
+      },
+      "tomas": {
+        "id": "tomas",
+        "name": "Tomas",
+        "references": [
+          {
+            "resource": "Tomas-character-sheet.png",
+            "purpose": "character_identity",
+            "requirement": "required"
+          },
+          {
+            "resource": "Tomas-expression-sheet.png",
+            "purpose": "expression_reference",
+            "requirement": "required"
+          },
+          {
+            "resource": "Tomas-canonical-character-specification.txt",
+            "purpose": "character_identity",
+            "requirement": "required"
+          }
+        ]
+      },
+      "huldarah": {
+        "id": "huldarah",
+        "name": "Huldarah",
+        "references": [
+          {
+            "resource": "Huldarah-character-sheet.png",
+            "purpose": "character_identity",
+            "requirement": "required"
+          },
+          {
+            "resource": "Huldarah-expression-sheet.png",
+            "purpose": "expression_reference",
+            "requirement": "required"
+          },
+          {
+            "resource": "Huldarah-canonical-character-specification.txt",
+            "purpose": "character_identity",
+            "requirement": "required"
+          }
+        ]
+      },
+      "zorna": {
+        "id": "zorna",
+        "name": "Zorna",
+        "references": [
+          {
+            "resource": "Zorna-character-sheet.png",
+            "purpose": "character_identity",
+            "requirement": "required"
+          },
+          {
+            "resource": "Zorna-expression-sheet.png",
+            "purpose": "expression_reference",
+            "requirement": "required"
+          },
+          {
+            "resource": "Zorna-canonical-character-specification.txt",
+            "purpose": "character_identity",
+            "requirement": "required"
+          }
+        ]
+      },
+      "josia": {
+        "id": "josia",
+        "name": "Josia",
+        "references": [
+          {
+            "resource": "Josia-character-sheet.png",
+            "purpose": "character_identity",
+            "requirement": "required"
+          }
+        ]
+      }
+    }
+  }
+}

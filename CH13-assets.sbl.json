@@ -1,0 +1,341 @@
+{
+  "library": {
+    "id": "IAKESI-CH13-ASSETS",
+    "title": "IAKESI Chapter 13 — Final Exams Assets",
+    "specification": {
+      "name": "SBL",
+      "version": "1.0"
+    },
+    "resources": {
+      "CH13-A001": {
+        "type": "image",
+        "file": "Assets/Academy-Uniform-Female.png",
+        "sha256": "18b85c46484290ff40edd077f091ef0b4b6edf81f5e748bc5040d7149499e8a3",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A002": {
+        "type": "image",
+        "file": "Assets/Academy-Uniform-Male.png",
+        "sha256": "5338a367c626920c8ef5cea5a799745a38ba72fadfc560e4e4731c6a33f2bf0d",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A003": {
+        "type": "image",
+        "file": "Assets/Academy-Uniform-Midori.png",
+        "sha256": "be83449d7588dc5ad41f1965a88866d1fed266edcdf59af3cd3a78c4aaa21200",
+        "classification": "supporting",
+        "precedence": "secondary"
+      },
+      "CH13-A004": {
+        "type": "image",
+        "file": "Assets/Adnil-production-sheet.png",
+        "sha256": "ef58ff2b0e2a88eff94dffb34ed75edc06ab2841cd594928df9fc9b92d2df127",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A005": {
+        "type": "image",
+        "file": "Assets/Aokawa-Shrine-Attendant-Costume-Sheet.png",
+        "sha256": "d605e94f43179ce5533ff0ab17372580a9c4caa94b0eb80beeb61d6af50de9b9",
+        "classification": "supporting",
+        "precedence": "secondary"
+      },
+      "CH13-A006": {
+        "type": "image",
+        "file": "Assets/Ashiba-Academy-Administration-Building-Reference-Sheet.png",
+        "sha256": "ff60212cf7fd3f996e4e52d2376982b23c8f21d5e86cdd6cbcf07f58d3d55ec8",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A007": {
+        "type": "image",
+        "file": "Assets/Ashiba-Academy-Asset-Reference-Sheet.png",
+        "sha256": "48f0ea2d1323beca84eae67535873978df4d6508bcc2ba87b182aac477d075d0",
+        "classification": "supporting",
+        "precedence": "secondary"
+      },
+      "CH13-A008": {
+        "type": "image",
+        "file": "Assets/Ashiba-Academy-Campus-Reference-Sheet.png",
+        "sha256": "c7805a0e318406b0bcfd1ccbf08a4fb7a45d35f0ac96010c3f838b9d2b5a293a",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A009": {
+        "type": "image",
+        "file": "Assets/Ashiba-Academy-Classroom-Building-Reference-Sheet.png",
+        "sha256": "cc107419c2751595b2db7ca10ff47457366f7aba16ac394f63010cc370736163",
+        "classification": "supporting",
+        "precedence": "secondary"
+      },
+      "CH13-A010": {
+        "type": "image",
+        "file": "Assets/Ashiba-Academy-Classroom-Reference-Sheet.png",
+        "sha256": "9eb18996731095a2c781a376c8c57d077ecb07bbbbbef2f09d4172fb1297af17",
+        "classification": "supporting",
+        "precedence": "secondary"
+      },
+      "CH13-A011": {
+        "type": "image",
+        "file": "Assets/Ashiba-Academy-Corridor-Reference-Board.png",
+        "sha256": "bcb1a584e657108fd2b9ea879823989e0fd1ce2994e6c259b2b3d104bf3e6ff0",
+        "classification": "supporting",
+        "precedence": "secondary"
+      },
+      "CH13-A012": {
+        "type": "image",
+        "file": "Assets/Ashiba-Academy-Examination-Hall-Reference-Sheet.png",
+        "sha256": "e4c89a106e4d6412e553cb9da2d0497ccce2fecd50048be9b366cfd813c49b60",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A013": {
+        "type": "image",
+        "file": "Assets/Ashiba-Academy-Insignia-Reference-Sheet.png",
+        "sha256": "a2e98782ff7da8a527d365621661e580e38ec601add51b796d8002fe437ffdb9",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A014": {
+        "type": "image",
+        "file": "Assets/Ashiba-Academy-Mana-Operated-Doors.png",
+        "sha256": "cf257e8b0b5d4d5a2283a88d947d74a5bdd9efe011cac319086f4ca6e8037969",
+        "classification": "supporting",
+        "precedence": "secondary"
+      },
+      "CH13-A015": {
+        "type": "image",
+        "file": "Assets/Ashiba-Academy-Results-Board-Reference-Sheet.png",
+        "sha256": "8b1671ea65ee5be84dfd408ddf61c297d33fea1824b34b0407c786ff2f7cf5b5",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A016": {
+        "type": "image",
+        "file": "Assets/Ashire-Character-Sheet.png",
+        "sha256": "eba2842ede599fc8bc7afa77feb9694b8eb07b6705a50ab47740130ac3adc8b4",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A017": {
+        "type": "image",
+        "file": "Assets/Bali-Character-Reference-Sheet.png",
+        "sha256": "95d21b087d1c7e412d568f2c25553979592956f00a81837dd22becea3c073a9c",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A018": {
+        "type": "image",
+        "file": "Assets/Battlefield-Evaluation-Rang-Reference-Sheet.png",
+        "sha256": "ff9379e21e6298b87271a49754cdc3d728f69f33030ab5cc999565ffd77d469b",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A019": {
+        "type": "image",
+        "file": "Assets/Beli-production-sheet.png",
+        "sha256": "a823934a35503875fe86ea8bc0c8448b69a363cd51fb09f3f7ebf9bb2d8ec2e0",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A020": {
+        "type": "image",
+        "file": "Assets/Brienmay-production-sheet.png",
+        "sha256": "6610c631a7c1f76c2b06872c161fe3530b1301421085d8d5df7551f299f676b1",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A021": {
+        "type": "image",
+        "file": "Assets/Buren-Character-Sheet.png",
+        "sha256": "6e84eab813d8985086e884e4603f2ce25268e2cddcba30af3ae6b7f1257f8c41",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A022": {
+        "type": "image",
+        "file": "Assets/Celeste-Character-Sheet.png",
+        "sha256": "2c357cc09a89bf242189042fe41d45cabcd60f44051cb08ca2f22ffca3773047",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A023": {
+        "type": "image",
+        "file": "Assets/Dark-Magic-Station-Reference-Sheet.png",
+        "sha256": "fa82b8187b56cd40a1fa6d6d9bbe154411df785e9b4c5646bfa2d982fa7f0b94",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A024": {
+        "type": "image",
+        "file": "Assets/Dorm Floor Plan.png",
+        "sha256": "def6aff8c21057897992c1b7cd4a00b2347a4aea04a1dad453cad4562093b64f",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A025": {
+        "type": "image",
+        "file": "Assets/Eliane Character Sheet.png",
+        "sha256": "9116c5f8e80331ab9bfc3491c06bc516f50920040efb9ee3b6a543702724eff9",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A026": {
+        "type": "image",
+        "file": "Assets/Examination-and-Tactical-Map-Props.png",
+        "sha256": "e3e9cea91d490d58f26e190767882259a696ba13436e5d52cf537c7b0f39e1da",
+        "classification": "supporting",
+        "precedence": "secondary"
+      },
+      "CH13-A027": {
+        "type": "image",
+        "file": "Assets/Faculty-Deliberation-Room.png",
+        "sha256": "8ebd9aae4339661fd0f063de516128f40de0f7ea47ad8b41075f1baa8675b462",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A028": {
+        "type": "image",
+        "file": "Assets/Fire-Magic-Station-Guide.png",
+        "sha256": "535ee268e4ffb3c881f7a3768fb9504f5d7109bded8c70401e1602de01c28faf",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A029": {
+        "type": "image",
+        "file": "Assets/Firma-Magic-Station-Reference-Sheet.png",
+        "sha256": "1628e182a714e07e9af2e119bd5b7089d1b98f2b1b71ee44cbb6938ca0ec99bf",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A030": {
+        "type": "image",
+        "file": "Assets/Kenee-Character-Sheet.png",
+        "sha256": "38f369382e435b5f6d79e2d58413dad1b18ca88332ce0b338532c09126fb9c4e",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A031": {
+        "type": "image",
+        "file": "Assets/Light-Magic-Station-Reference-Sheet.png",
+        "sha256": "1543ac3b36c3126b210868dd96699dc2272abcaf8c3a40167411e6453ccee940",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A032": {
+        "type": "image",
+        "file": "Assets/Lucia Expression Sheet.png",
+        "sha256": "4aec0a611d3402ca5d466f3e066098c99bdf9c95abf65e36422b3639cfedaf55",
+        "classification": "supporting",
+        "precedence": "secondary"
+      },
+      "CH13-A033": {
+        "type": "image",
+        "file": "Assets/Lucia model sheet.png",
+        "sha256": "aaa1b5705cf9d2b1d40db0a58c7da1bfa9576ccec6169769fa55120ada520e22",
+        "classification": "supporting",
+        "precedence": "secondary"
+      },
+      "CH13-A034": {
+        "type": "image",
+        "file": "Assets/Lucia-Character-Sheet.png",
+        "sha256": "d950342658268eccf7a6c8ba5686882f57ea6d77f2b3a249aaf56aac6e709ea2",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A035": {
+        "type": "image",
+        "file": "Assets/Midori-Academy-Uniform-Production-Sheet.png",
+        "sha256": "672ed9372dd0fbe15f7e1f92bd5b1027a8615eb627e205d3b08578d6576d0615",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A036": {
+        "type": "image",
+        "file": "Assets/Midori-Dormitory-Environment-Reference.png",
+        "sha256": "4f82ad71b04ddd8bb761bce010d44b9a80865ff3489767b50d41b8be58c9b492",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A037": {
+        "type": "image",
+        "file": "Assets/Midori-Kamakura-Miko-Costume-Reference.png",
+        "sha256": "1e01877221f6bb9edbf59187104cde784bdec0ae8225c811eeba3c659f2d0503",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A038": {
+        "type": "image",
+        "file": "Assets/Midori-Production-Academy.png",
+        "sha256": "3932e6ed9469f9726e53d8c48bcd9996a47f624fefb7bc975721d0d266218d6d",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A039": {
+        "type": "image",
+        "file": "Assets/Mirel-Character-Sheet.png",
+        "sha256": "4d3bd1fb7a0a151559ce9b7f60a5cd59ab975e27fa76d274799d92bec397c6a3",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A040": {
+        "type": "image",
+        "file": "Assets/Naandeen-production-sheet.png",
+        "sha256": "4141ed865fc85083adc1f19b0acbcc8a4a5aaeaddf1b2192caf9282285397a5a",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A041": {
+        "type": "image",
+        "file": "Assets/Taren-Character-Sheet.png",
+        "sha256": "d1333b770091e3c2374c342baf13cab0c1a8e712fdf66340a85da7f8bb34c62b",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A042": {
+        "type": "image",
+        "file": "Assets/Temple-Hospital-Reference-Sheet.png",
+        "sha256": "c9a3439ca2b964ef6c4d7ddf2e550e73615009b718ed2aeab98ff5c61d3d1a26",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A043": {
+        "type": "image",
+        "file": "Assets/Water-Magic-Station-Reference.png",
+        "sha256": "6b0ee37a16203009958baccce73e9b9d9ae1c6c92356bff09b2c97c259130fb8",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A044": {
+        "type": "image",
+        "file": "Assets/Wind-Magic-Station-Reference-Sheet.png",
+        "sha256": "eec1f9886d68b47ba00a9faf12c85e2f4e121e91515661fd96a480cf9d309a1b",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A045": {
+        "type": "image",
+        "file": "Assets/Zarleen-age-19-20.png",
+        "sha256": "fad6c978a10878e3cbd0ac889b54301d213166dd3229830c4dc5e9a7370e546d",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A046": {
+        "type": "image",
+        "file": "Assets/Zoran-Settlement-Mana-Installation-Reference-Sheet.png",
+        "sha256": "3513f983b1fed28dd7b4445d42eeae3a01c1f86233d8973eb0bbb87d3531dc49",
+        "classification": "canonical",
+        "precedence": "primary"
+      },
+      "CH13-A047": {
+        "type": "document",
+        "file": "Assets/Zoran_Language_and_script.docx",
+        "sha256": "fdc0f4a60c69cb65c414cb74a9eb86f54a692a706b27c8132521cf0b7b901c07",
+        "classification": "lettering_reference",
+        "precedence": "primary"
+      }
+    }
+  }
+}

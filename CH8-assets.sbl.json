@@ -1,0 +1,479 @@
+{
+  "asset_library": {
+    "id": "IAKESI-CH8-ASSETS",
+    "version": "1.0",
+    "root": "Assets",
+    "preserve_subdirectories": true,
+    "assets": {
+      "Nyssara-expression-sheet.png": {
+        "file": "Assets/Nyssara-expression-sheet.png",
+        "type": "image",
+        "purposes": [
+          "expression_reference"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Midori-age11-expression-sheet.png": {
+        "file": "Assets/Midori-age11-expression-sheet.png",
+        "type": "image",
+        "purposes": [
+          "expression_reference"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Terra-canonical-character-specification.txt": {
+        "file": "Assets/Terra-canonical-character-specification.txt",
+        "type": "text",
+        "purposes": [
+          "character_specification"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Midori-House-production-sheet.png": {
+        "file": "Assets/Midori-House-production-sheet.png",
+        "type": "image",
+        "purposes": [
+          "production_reference"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "VillageChief-Canonical-Character-Specification.txt": {
+        "file": "Assets/VillageChief-Canonical-Character-Specification.txt",
+        "type": "text",
+        "purposes": [
+          "character_specification"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Aokawa-Temple-Exterior-production-sheet.png": {
+        "file": "Assets/Aokawa-Temple-Exterior-production-sheet.png",
+        "type": "image",
+        "purposes": [
+          "production_reference"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Takeshi-Canonical-Character-Specification.txt": {
+        "file": "Assets/Takeshi-Canonical-Character-Specification.txt",
+        "type": "text",
+        "purposes": [
+          "character_specification"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Village-Chief-expression-sheet.png": {
+        "file": "Assets/Village-Chief-expression-sheet.png",
+        "type": "image",
+        "purposes": [
+          "expression_reference"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Takeshi-character-reference-sheet.png": {
+        "file": "Assets/Takeshi-character-reference-sheet.png",
+        "type": "image",
+        "purposes": [
+          "character_identity"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Truk-canonical-character-specification.txt": {
+        "file": "Assets/Truk-canonical-character-specification.txt",
+        "type": "text",
+        "purposes": [
+          "character_specification"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Truks-Carriage-Production-Sheet.png": {
+        "file": "Assets/Truks-Carriage-Production-Sheet.png",
+        "type": "image",
+        "purposes": [
+          "production_reference"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Zorna-character-sheet.png": {
+        "file": "Assets/Zorna-character-sheet.png",
+        "type": "image",
+        "purposes": [
+          "character_identity"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Nyssara-character-sheet.png": {
+        "file": "Assets/Nyssara-character-sheet.png",
+        "type": "image",
+        "purposes": [
+          "character_identity"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Aokawa-Shrine-Attendant-Costume-Sheet.png": {
+        "file": "Assets/Aokawa-Shrine-Attendant-Costume-Sheet.png",
+        "type": "image",
+        "purposes": [
+          "costume_reference"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Takeshi-expression-sheet.png": {
+        "file": "Assets/Takeshi-expression-sheet.png",
+        "type": "image",
+        "purposes": [
+          "expression_reference"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Terra-character-sheet.png": {
+        "file": "Assets/Terra-character-sheet.png",
+        "type": "image",
+        "purposes": [
+          "character_identity"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "WOA-canonical-production-specification.txt": {
+        "file": "Assets/WOA-canonical-production-specification.txt",
+        "type": "text",
+        "purposes": [
+          "production_specification"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Zorna-expression-sheet.png": {
+        "file": "Assets/Zorna-expression-sheet.png",
+        "type": "image",
+        "purposes": [
+          "expression_reference"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Zorna-canonical-character-specification(1).txt": {
+        "file": "Assets/Zorna-canonical-character-specification(1).txt",
+        "type": "text",
+        "purposes": [
+          "character_specification"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Midori-age11-character-reference-sheet.png": {
+        "file": "Assets/Midori-age11-character-reference-sheet.png",
+        "type": "image",
+        "purposes": [
+          "character_identity"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Aokawa-Temple-Interior-production-sheet.png": {
+        "file": "Assets/Aokawa-Temple-Interior-production-sheet.png",
+        "type": "image",
+        "purposes": [
+          "production_reference"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Aokawa-Village-production-sheet.png": {
+        "file": "Assets/Aokawa-Village-production-sheet.png",
+        "type": "image",
+        "purposes": [
+          "production_reference"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "SRA-production-sheet.png": {
+        "file": "Assets/SRA-production-sheet.png",
+        "type": "image",
+        "purposes": [
+          "production_reference"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Truk-character-reference-sheet.png": {
+        "file": "Assets/Truk-character-reference-sheet.png",
+        "type": "image",
+        "purposes": [
+          "character_identity"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Nyssara-canonical-character-specification.txt": {
+        "file": "Assets/Nyssara-canonical-character-specification.txt",
+        "type": "text",
+        "purposes": [
+          "character_specification"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Truk-expression-sheet.png": {
+        "file": "Assets/Truk-expression-sheet.png",
+        "type": "image",
+        "purposes": [
+          "expression_reference"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "WOA-production-sheet.png": {
+        "file": "Assets/WOA-production-sheet.png",
+        "type": "image",
+        "purposes": [
+          "production_reference"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Aokawa-Meeting-Hall-production-sheet.png": {
+        "file": "Assets/Aokawa-Meeting-Hall-production-sheet.png",
+        "type": "image",
+        "purposes": [
+          "production_reference"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Midori-Age-11-Canonical-Character-Specification-v2.txt": {
+        "file": "Assets/Midori-Age-11-Canonical-Character-Specification-v2.txt",
+        "type": "text",
+        "purposes": [
+          "character_specification"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "WOA-production-sheet-plus-map.png": {
+        "file": "Assets/WOA-production-sheet-plus-map.png",
+        "type": "image",
+        "purposes": [
+          "production_reference"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Terra-expression-sheet.png": {
+        "file": "Assets/Terra-expression-sheet.png",
+        "type": "image",
+        "purposes": [
+          "expression_reference"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Village-Chief-character-reference-sheet.png": {
+        "file": "Assets/Village-Chief-character-reference-sheet.png",
+        "type": "image",
+        "purposes": [
+          "character_identity"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Abbess character sheet.png": {
+        "file": "Assets/Abbess character sheet.png",
+        "type": "image",
+        "purposes": [
+          "character_identity"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Character sheets Year 1/Ren Character Sheet.png": {
+        "file": "Assets/Character sheets Year 1/Ren Character Sheet.png",
+        "type": "image",
+        "purposes": [
+          "character_identity"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Character sheets Year 1/Momo Character Sheet.png": {
+        "file": "Assets/Character sheets Year 1/Momo Character Sheet.png",
+        "type": "image",
+        "purposes": [
+          "character_identity"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Character sheets Year 1/Kenta Character Sheet.png": {
+        "file": "Assets/Character sheets Year 1/Kenta Character Sheet.png",
+        "type": "image",
+        "purposes": [
+          "character_identity"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Character sheets Year 1/Aiko Character Sheet.png": {
+        "file": "Assets/Character sheets Year 1/Aiko Character Sheet.png",
+        "type": "image",
+        "purposes": [
+          "character_identity"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Character sheets Year 1/Yui Character sheet.png": {
+        "file": "Assets/Character sheets Year 1/Yui Character sheet.png",
+        "type": "image",
+        "purposes": [
+          "character_identity"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Character sheets Year 1/Saburo Character Sheet.png": {
+        "file": "Assets/Character sheets Year 1/Saburo Character Sheet.png",
+        "type": "image",
+        "purposes": [
+          "character_identity"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Character sheets Year 1/Chiyo Character Sheet.png": {
+        "file": "Assets/Character sheets Year 1/Chiyo Character Sheet.png",
+        "type": "image",
+        "purposes": [
+          "character_identity"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Character sheets Year 1/Hana Character Sheet.png": {
+        "file": "Assets/Character sheets Year 1/Hana Character Sheet.png",
+        "type": "image",
+        "purposes": [
+          "character_identity"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Character sheets Year 1/Midori age 11.png": {
+        "file": "Assets/Character sheets Year 1/Midori age 11.png",
+        "type": "image",
+        "purposes": [
+          "character_identity"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Character Sheets Year 3/Momo Character Sheets, Year 3.png": {
+        "file": "Assets/Character Sheets Year 3/Momo Character Sheets, Year 3.png",
+        "type": "image",
+        "purposes": [
+          "character_identity"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Character Sheets Year 3/Kenta Character Sheet Year 3.png": {
+        "file": "Assets/Character Sheets Year 3/Kenta Character Sheet Year 3.png",
+        "type": "image",
+        "purposes": [
+          "character_identity"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Character Sheets Year 3/Aiko Character Sheet Year 3.png": {
+        "file": "Assets/Character Sheets Year 3/Aiko Character Sheet Year 3.png",
+        "type": "image",
+        "purposes": [
+          "character_identity"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Character Sheets Year 3/Yui Character Sheet Year 3.png": {
+        "file": "Assets/Character Sheets Year 3/Yui Character Sheet Year 3.png",
+        "type": "image",
+        "purposes": [
+          "character_identity"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Character Sheets Year 3/Saburo Character Sheet, Year 3.png": {
+        "file": "Assets/Character Sheets Year 3/Saburo Character Sheet, Year 3.png",
+        "type": "image",
+        "purposes": [
+          "character_identity"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Character Sheets Year 3/Ren Character sheet Year 3.png": {
+        "file": "Assets/Character Sheets Year 3/Ren Character sheet Year 3.png",
+        "type": "image",
+        "purposes": [
+          "character_identity"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Character Sheets Year 3/Chiyo Character Sheet Year 3.png": {
+        "file": "Assets/Character Sheets Year 3/Chiyo Character Sheet Year 3.png",
+        "type": "image",
+        "purposes": [
+          "character_identity"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Character Sheets Year 3/Midori age 13.png": {
+        "file": "Assets/Character Sheets Year 3/Midori age 13.png",
+        "type": "image",
+        "purposes": [
+          "character_identity"
+        ],
+        "requirement": "required",
+        "available": true
+      },
+      "Character Sheets Year 3/Hana Character Sheet Year 3.png": {
+        "file": "Assets/Character Sheets Year 3/Hana Character Sheet Year 3.png",
+        "type": "image",
+        "purposes": [
+          "character_identity"
+        ],
+        "requirement": "required",
+        "available": true
+      }
+    },
+    "rules": {
+      "year_1_directory": "Assets/Character sheets Year 1/",
+      "year_3_directory": "Assets/Character Sheets Year 3/",
+      "timeskip_page": 32,
+      "takeshi": "Root-level Chapter 7 Takeshi assets throughout.",
+      "midori_pre_timeskip": "Root-level Midori age-11 canonical package.",
+      "midori_post_timeskip": "Assets/Character Sheets Year 3/Midori age 13.png",
+      "do_not_mix_age_states": true,
+      "slave_ship_pages_53_54": "No dedicated asset or external PDF required; render from approved script/directorial instructions."
+    }
+  }
+}

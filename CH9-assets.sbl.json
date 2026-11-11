@@ -1,0 +1,162 @@
+{
+  "library": {
+    "id": "IAKESI-CH9-ASSETS",
+    "title": "IAKESI Chapter 9 Assets",
+    "specification": {
+      "name": "SBL",
+      "version": "1.0",
+      "exact": true
+    },
+    "resources": {
+      "asset_Ashiba-Character-Sheet.png": {
+        "type": "image",
+        "file": "Assets/Ashiba-Character-Sheet.png",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "asset_Beti-Character-Sheet.png": {
+        "type": "image",
+        "file": "Assets/Beti-Character-Sheet.png",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "asset_Chamber-Log-Prop-Sheet.png": {
+        "type": "image",
+        "file": "Assets/Chamber-Log-Prop-Sheet.png",
+        "purposes": [
+          "prop_reference"
+        ]
+      },
+      "asset_Crystal-of-Life-State-Sheet.png": {
+        "type": "image",
+        "file": "Assets/Crystal-of-Life-State-Sheet.png",
+        "purposes": [
+          "production_reference",
+          "state_reference"
+        ]
+      },
+      "asset_Delti-Character-Sheet.png": {
+        "type": "image",
+        "file": "Assets/Delti-Character-Sheet.png",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "asset_Early-Ashiba-Shrine-Production-Sheet.png": {
+        "type": "image",
+        "file": "Assets/Early-Ashiba-Shrine-Production-Sheet.png",
+        "purposes": [
+          "production_reference"
+        ]
+      },
+      "asset_Elderly-Ashiba-Reference.png": {
+        "type": "image",
+        "file": "Assets/Elderly-Ashiba-Reference.png",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "asset_Midori-Canonical-Character-Specification.txt": {
+        "type": "text",
+        "file": "Assets/Midori-Canonical-Character-Specification.txt",
+        "purposes": [
+          "character_specification"
+        ]
+      },
+      "asset_Midori-Character-Reference-Sheet.png": {
+        "type": "image",
+        "file": "Assets/Midori-Character-Reference-Sheet.png",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "asset_Midori-Expression-Sheet.png": {
+        "type": "image",
+        "file": "Assets/Midori-Expression-Sheet.png",
+        "purposes": [
+          "expression_reference"
+        ]
+      },
+      "asset_Resurrection-Chamber-Production-Sheet.png": {
+        "type": "image",
+        "file": "Assets/Resurrection-Chamber-Production-Sheet.png",
+        "purposes": [
+          "production_reference"
+        ]
+      },
+      "asset_Resurrection-Circle-State-Sheet.png": {
+        "type": "image",
+        "file": "Assets/Resurrection-Circle-State-Sheet.png",
+        "purposes": [
+          "production_reference",
+          "state_reference"
+        ]
+      },
+      "asset_Resurrection-Watch-Alpha.png": {
+        "type": "image",
+        "file": "Assets/Resurrection-Watch-Alpha.png",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "asset_SRA-production-sheet.png": {
+        "type": "image",
+        "file": "Assets/SRA-production-sheet.png",
+        "purposes": [
+          "production_reference"
+        ]
+      },
+      "asset_Seraphine-character-sheet.png": {
+        "type": "image",
+        "file": "Assets/Seraphine-character-sheet.png",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "asset_Temple-Clothing-Evolution-Sheet.png": {
+        "type": "image",
+        "file": "Assets/Temple-Clothing-Evolution-Sheet.png",
+        "purposes": [
+          "costume_reference"
+        ]
+      },
+      "asset_Temple-of-Light-Evolution-Sheet.png": {
+        "type": "image",
+        "file": "Assets/Temple-of-Light-Evolution-Sheet.png",
+        "purposes": [
+          "production_reference"
+        ]
+      },
+      "asset_Temple-of-Light-Mature-Exterior.png": {
+        "type": "image",
+        "file": "Assets/Temple-of-Light-Mature-Exterior.png",
+        "purposes": [
+          "production_reference"
+        ]
+      },
+      "asset_Zorna-canonical-character-specification_1_.txt": {
+        "type": "text",
+        "file": "Assets/Zorna-canonical-character-specification(1).txt",
+        "purposes": [
+          "character_specification"
+        ]
+      },
+      "asset_Zorna-character-sheet.png": {
+        "type": "image",
+        "file": "Assets/Zorna-character-sheet.png",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "asset_Zorna-expression-sheet.png": {
+        "type": "image",
+        "file": "Assets/Zorna-expression-sheet.png",
+        "purposes": [
+          "expression_reference"
+        ]
+      }
+    }
+  }
+}

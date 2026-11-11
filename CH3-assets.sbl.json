@@ -1,0 +1,203 @@
+{
+  "library": {
+    "id": "IAKESI-CH3-Assets",
+    "specification": {
+      "name": "SBL",
+      "version": "1.0"
+    },
+    "resources": {
+      "Alpha-canonical-character-specification.txt": {
+        "type": "text",
+        "file": "Assets/Alpha-canonical-character-specification.txt",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "Alpha-character-sheet.png": {
+        "type": "image",
+        "file": "Assets/Alpha-character-sheet.png",
+        "purposes": [
+          "character_identity",
+          "color_reference",
+          "scale_reference"
+        ]
+      },
+      "Alpha-expression-sheet.png": {
+        "type": "image",
+        "file": "Assets/Alpha-expression-sheet.png",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "Nyas-cultural-development-specification.txt": {
+        "type": "text",
+        "file": "Assets/Nyas-cultural-development-specification.txt",
+        "purposes": [
+          "location_identity",
+          "architecture_reference",
+          "visual_inspiration"
+        ]
+      },
+      "Nyassarian_Language_and_Script.docx": {
+        "type": "binary",
+        "file": "Assets/Nyassarian_Language_and_Script.docx",
+        "purposes": [
+          "visual_inspiration"
+        ]
+      },
+      "Nyssara-canonical-character-specification.txt": {
+        "type": "text",
+        "file": "Assets/Nyssara-canonical-character-specification.txt",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "Nyssara-character-sheet.png": {
+        "type": "image",
+        "file": "Assets/Nyssara-character-sheet.png",
+        "purposes": [
+          "character_identity",
+          "color_reference",
+          "scale_reference"
+        ]
+      },
+      "Nyssara-expression-sheet.png": {
+        "type": "image",
+        "file": "Assets/Nyssara-expression-sheet.png",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "Terra-canonical-character-specification.txt": {
+        "type": "text",
+        "file": "Assets/Terra-canonical-character-specification.txt",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "Terra-character-sheet.png": {
+        "type": "image",
+        "file": "Assets/Terra-character-sheet.png",
+        "purposes": [
+          "character_identity",
+          "color_reference",
+          "scale_reference"
+        ]
+      },
+      "Terra-expression-sheet.png": {
+        "type": "image",
+        "file": "Assets/Terra-expression-sheet.png",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "WOA-canonical-production-specification.txt": {
+        "type": "text",
+        "file": "Assets/WOA-canonical-production-specification.txt",
+        "purposes": [
+          "location_identity",
+          "visual_inspiration"
+        ]
+      },
+      "WOA-observation-field-states-sheet.png": {
+        "type": "image",
+        "file": "Assets/WOA-observation-field-states-sheet.png",
+        "purposes": [
+          "location_identity",
+          "visual_inspiration"
+        ]
+      },
+      "WOA-production-sheet-plus-map.png": {
+        "type": "image",
+        "file": "Assets/WOA-production-sheet-plus-map.png",
+        "purposes": [
+          "location_identity",
+          "visual_inspiration"
+        ]
+      },
+      "WOA-production-sheet.png": {
+        "type": "image",
+        "file": "Assets/WOA-production-sheet.png",
+        "purposes": [
+          "location_identity",
+          "visual_inspiration"
+        ]
+      },
+      "Zora-Nyas-technology-timeline.txt": {
+        "type": "text",
+        "file": "Assets/Zora-Nyas-technology-timeline.txt",
+        "purposes": [
+          "visual_inspiration"
+        ]
+      },
+      "Zora-Nyas-world-map.png": {
+        "type": "image",
+        "file": "Assets/Zora-Nyas-world-map.png",
+        "purposes": [
+          "location_identity",
+          "scale_reference"
+        ]
+      },
+      "Zora-Nyas-writing-systems-renderer-spec.txt": {
+        "type": "text",
+        "file": "Assets/Zora-Nyas-writing-systems-renderer-spec.txt",
+        "purposes": [
+          "visual_inspiration"
+        ]
+      },
+      "Zora-Nyas-writing-systems-sheet.png": {
+        "type": "image",
+        "file": "Assets/Zora-Nyas-writing-systems-sheet.png",
+        "purposes": [
+          "visual_inspiration"
+        ]
+      },
+      "Zora-cultural-development-specification.txt": {
+        "type": "text",
+        "file": "Assets/Zora-cultural-development-specification.txt",
+        "purposes": [
+          "location_identity",
+          "architecture_reference",
+          "visual_inspiration"
+        ]
+      },
+      "Zora-mana-effects-sheet.png": {
+        "type": "image",
+        "file": "Assets/Zora-mana-effects-sheet.png",
+        "purposes": [
+          "visual_inspiration"
+        ]
+      },
+      "Zoran_Language_and_script.docx": {
+        "type": "binary",
+        "file": "Assets/Zoran_Language_and_script.docx",
+        "purposes": [
+          "visual_inspiration"
+        ]
+      },
+      "Zorna-canonical-character-specification.txt": {
+        "type": "text",
+        "file": "Assets/Zorna-canonical-character-specification.txt",
+        "purposes": [
+          "character_identity"
+        ]
+      },
+      "Zorna-character-sheet.png": {
+        "type": "image",
+        "file": "Assets/Zorna-character-sheet.png",
+        "purposes": [
+          "character_identity",
+          "color_reference",
+          "scale_reference"
+        ]
+      },
+      "Zorna-expression-sheet.png": {
+        "type": "image",
+        "file": "Assets/Zorna-expression-sheet.png",
+        "purposes": [
+          "character_identity"
+        ]
+      }
+    }
+  }
+}

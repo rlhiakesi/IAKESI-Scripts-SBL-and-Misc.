@@ -1,0 +1,5049 @@
+{
+  "chapter": "CH16",
+  "format": "IAKESI_assets_SBL",
+  "version": "Step24-frozen-conversion",
+  "source": {
+    "frozen_docx": "Chapter-16-Script-FROZEN-Step23-2026-10-17.docx",
+    "sha256": "f1052a19d09288d58c783755e211a9e172b0ea3848481d8ef0bc7862a93558b0",
+    "asset_library": "Assets/",
+    "editorial_authority": "The frozen DOCX is the editorial master; this SBL is a deterministic production derivative."
+  },
+  "asset_archive": "Assets/",
+  "asset_manifest": {
+    "Assets/Academy-Uniform-Female.png": {
+      "path": "Assets/Academy-Uniform-Female.png",
+      "sha256": "18b85c46484290ff40edd077f091ef0b4b6edf81f5e748bc5040d7149499e8a3",
+      "bytes": 2232255,
+      "classification": "canonical"
+    },
+    "Assets/Academy-Uniform-Male.png": {
+      "path": "Assets/Academy-Uniform-Male.png",
+      "sha256": "5338a367c626920c8ef5cea5a799745a38ba72fadfc560e4e4731c6a33f2bf0d",
+      "bytes": 2474072,
+      "classification": "canonical"
+    },
+    "Assets/Academy-Uniform-Midori.png": {
+      "path": "Assets/Academy-Uniform-Midori.png",
+      "sha256": "be83449d7588dc5ad41f1965a88866d1fed266edcdf59af3cd3a78c4aaa21200",
+      "bytes": 2248357,
+      "classification": "canonical"
+    },
+    "Assets/Ashiba-Academy-Administration-Building-Reference-Sheet.png": {
+      "path": "Assets/Ashiba-Academy-Administration-Building-Reference-Sheet.png",
+      "sha256": "ff60212cf7fd3f996e4e52d2376982b23c8f21d5e86cdd6cbcf07f58d3d55ec8",
+      "bytes": 2986616,
+      "classification": "canonical"
+    },
+    "Assets/Ashiba-Academy-Asset-Reference-Sheet.png": {
+      "path": "Assets/Ashiba-Academy-Asset-Reference-Sheet.png",
+      "sha256": "48f0ea2d1323beca84eae67535873978df4d6508bcc2ba87b182aac477d075d0",
+      "bytes": 2347261,
+      "classification": "supplemental"
+    },
+    "Assets/Ashiba-Academy-Classroom-Reference-Sheet.png": {
+      "path": "Assets/Ashiba-Academy-Classroom-Reference-Sheet.png",
+      "sha256": "9eb18996731095a2c781a376c8c57d077ecb07bbbbbef2f09d4172fb1297af17",
+      "bytes": 2621876,
+      "classification": "canonical"
+    },
+    "Assets/Ashiba-Academy-Corridor-Reference-Board.png": {
+      "path": "Assets/Ashiba-Academy-Corridor-Reference-Board.png",
+      "sha256": "bcb1a584e657108fd2b9ea879823989e0fd1ce2994e6c259b2b3d104bf3e6ff0",
+      "bytes": 2754187,
+      "classification": "canonical"
+    },
+    "Assets/Ashiba-Character-Sheet.png": {
+      "path": "Assets/Ashiba-Character-Sheet.png",
+      "sha256": "2a4dd5f095c9256735d94762ac905925a765db2763e894115f161aba88a92eca",
+      "bytes": 2748745,
+      "classification": "canonical"
+    },
+    "Assets/Ashire-Character-Sheet.png": {
+      "path": "Assets/Ashire-Character-Sheet.png",
+      "sha256": "eba2842ede599fc8bc7afa77feb9694b8eb07b6705a50ab47740130ac3adc8b4",
+      "bytes": 2277415,
+      "classification": "canonical"
+    },
+    "Assets/Ashire-Office-Academy-Interior-Reference-Sheet.png": {
+      "path": "Assets/Ashire-Office-Academy-Interior-Reference-Sheet.png",
+      "sha256": "fc51c13848256a7ce58a1b3f10cc4614d022a6a27e50ac48fc6e49c48b944af3",
+      "bytes": 2716063,
+      "classification": "canonical"
+    },
+    "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png": {
+      "path": "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png",
+      "sha256": "accf3aff19ec70b5b9bd290b3460ee605b15734cc6fb8fe1f01fa2b5263ed5f9",
+      "bytes": 3480086,
+      "classification": "canonical"
+    },
+    "Assets/Blue-Butterfly-Reference-Sheet.png": {
+      "path": "Assets/Blue-Butterfly-Reference-Sheet.png",
+      "sha256": "425b03cc37685035356aec0e4fb85bf547b504afb812d2a64a04d5a2669870ff",
+      "bytes": 2614777,
+      "classification": "canonical"
+    },
+    "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png": {
+      "path": "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+      "sha256": "3be8578a03263dccc8a90885ac3a2ded414491c8b548e78cea9437e818a331ab",
+      "bytes": 2794502,
+      "classification": "canonical"
+    },
+    "Assets/Brienmay-production-sheet.png": {
+      "path": "Assets/Brienmay-production-sheet.png",
+      "sha256": "6610c631a7c1f76c2b06872c161fe3530b1301421085d8d5df7551f299f676b1",
+      "bytes": 2776253,
+      "classification": "canonical"
+    },
+    "Assets/Buren-Age16-Reference-Sheet.png": {
+      "path": "Assets/Buren-Age16-Reference-Sheet.png",
+      "sha256": "0da486effdd6bef6f4d4e55c2dd9b232dd65d05552478e060a8fbac2c12b4e66",
+      "bytes": 2564467,
+      "classification": "canonical"
+    },
+    "Assets/Buren-Mage-Character-Reference-Sheet.png": {
+      "path": "Assets/Buren-Mage-Character-Reference-Sheet.png",
+      "sha256": "5bfd3dc4393ff9cc81ebcda4e3795bfbc316417f1fbc63f68874c74e532c94a9",
+      "bytes": 2780176,
+      "classification": "canonical"
+    },
+    "Assets/Butterfly-Collector-Character-Reference-Sheet.png": {
+      "path": "Assets/Butterfly-Collector-Character-Reference-Sheet.png",
+      "sha256": "7f73949ddd3bbbddc156449c95de9fbe141ffaec369017381ad77e0e0a0b4b15",
+      "bytes": 2515278,
+      "classification": "canonical"
+    },
+    "Assets/Emergency-Refuge-Shelter-Reference-Sheet.png": {
+      "path": "Assets/Emergency-Refuge-Shelter-Reference-Sheet.png",
+      "sha256": "9e4498878e766b65d7383c82b307dfc736981ca16da5d9bfb49b62215cc9f522",
+      "bytes": 2809133,
+      "classification": "canonical"
+    },
+    "Assets/Examination-and-Tactical-Map-Props.png": {
+      "path": "Assets/Examination-and-Tactical-Map-Props.png",
+      "sha256": "e3e9cea91d490d58f26e190767882259a696ba13436e5d52cf537c7b0f39e1da",
+      "bytes": 2985712,
+      "classification": "supplemental"
+    },
+    "Assets/Frenklyn-Character-Sheet.png": {
+      "path": "Assets/Frenklyn-Character-Sheet.png",
+      "sha256": "0385cf92a377868689df6fa475d355231d63d80a6debd7ca26424a115f2dd1cc",
+      "bytes": 2750395,
+      "classification": "canonical"
+    },
+    "Assets/Frontier-Fortress-Production-Sheet.png": {
+      "path": "Assets/Frontier-Fortress-Production-Sheet.png",
+      "sha256": "82209b9f9554996833578963ad60000f0965fb414ea06cc235a8556e23017822",
+      "bytes": 3227056,
+      "classification": "canonical"
+    },
+    "Assets/Future-City-and-Butterfly-Museum-Reference-Sheet.png": {
+      "path": "Assets/Future-City-and-Butterfly-Museum-Reference-Sheet.png",
+      "sha256": "a20eb674c215cebeeafe772c0ba98a6782fb8e1c6ede3b2c94a864ce4bbf2330",
+      "bytes": 2856787,
+      "classification": "canonical"
+    },
+    "Assets/Helena Model Sheet.png": {
+      "path": "Assets/Helena Model Sheet.png",
+      "sha256": "b80910af1f8747b8e2a1e1df063a9862c12d4cc1b4186b48d21c64f8aa69fda6",
+      "bytes": 2311189,
+      "classification": "canonical"
+    },
+    "Assets/High-Priestess-Seraphine’s-Office-Suite.png": {
+      "path": "Assets/High-Priestess-Seraphine’s-Office-Suite.png",
+      "sha256": "d8264fef0eb95628020387360e8bf33078c2c486b8f53c034ec7122fb6c81ca2",
+      "bytes": 2793762,
+      "classification": "canonical"
+    },
+    "Assets/Mana-Crystals-Production-Sheet.png": {
+      "path": "Assets/Mana-Crystals-Production-Sheet.png",
+      "sha256": "f42cb0a43cf488124a19f09eff21e89f581a8cee7fae54152af728d320b4546d",
+      "bytes": 2515283,
+      "classification": "supplemental"
+    },
+    "Assets/Midori-Mage-Character-Reference-Sheet.png": {
+      "path": "Assets/Midori-Mage-Character-Reference-Sheet.png",
+      "sha256": "85438f7238d72250197b0a9a3c2273b95ae9bc567cd1d5359b70c1897d3ec927",
+      "bytes": 2682124,
+      "classification": "canonical"
+    },
+    "Assets/Midori-Mana-Gauge-Production-Sheet.png": {
+      "path": "Assets/Midori-Mana-Gauge-Production-Sheet.png",
+      "sha256": "cb502d3b0ec49269bc8d9c0b4bfe820331cc9ce4964865dab468f4dc4d01a0f0",
+      "bytes": 2540397,
+      "classification": "supplemental"
+    },
+    "Assets/Military-Uniform-Reference-Sheet.png": {
+      "path": "Assets/Military-Uniform-Reference-Sheet.png",
+      "sha256": "9a007d131eb237c844b39d5a8fc594fd0e6cddf16b0959b7f6955fd29ac97914",
+      "bytes": 2669342,
+      "classification": "canonical"
+    },
+    "Assets/Nyssara-canonical-character-specification.txt": {
+      "path": "Assets/Nyssara-canonical-character-specification.txt",
+      "sha256": "dd391f18ddde03056316dcbbd1d5e407c4a88c5112713e0d6e5013ea74a6bec5",
+      "bytes": 10266,
+      "classification": "canonical"
+    },
+    "Assets/Nyssara-character-sheet.png": {
+      "path": "Assets/Nyssara-character-sheet.png",
+      "sha256": "c1ffcc04873a10160d66760d4a7368cf3765e792957b93109976b4102b13b4d4",
+      "bytes": 2320124,
+      "classification": "canonical"
+    },
+    "Assets/Nyssara-expression-sheet.png": {
+      "path": "Assets/Nyssara-expression-sheet.png",
+      "sha256": "67e198a348ddca6cd6d0f3209d9db2b41c1cf33b7c441897eddbb7b476ea99b1",
+      "bytes": 2349416,
+      "classification": "supplemental"
+    },
+    "Assets/Nyssarian-Artillery-Insignia.png": {
+      "path": "Assets/Nyssarian-Artillery-Insignia.png",
+      "sha256": "cb61cdf602bfb2039467c1a9c1de536bccd14f54447e310986e94b8e67caee97",
+      "bytes": 120031,
+      "classification": "supplemental"
+    },
+    "Assets/Nyssarian-Artillery-Reference-Sheet.png": {
+      "path": "Assets/Nyssarian-Artillery-Reference-Sheet.png",
+      "sha256": "5dd9acbd3aad1b730d6220115bc34d25e513bad0a589b0368aa3cb74bec6df1f",
+      "bytes": 2440256,
+      "classification": "canonical"
+    },
+    "Assets/Nyssarian-Government-and-Military-Conference-Reference-Sheet.png": {
+      "path": "Assets/Nyssarian-Government-and-Military-Conference-Reference-Sheet.png",
+      "sha256": "c5d1a3250447924f6a1f26bc3d4ba6681cf005dc12789f674952979199e4f548",
+      "bytes": 2814456,
+      "classification": "canonical"
+    },
+    "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png": {
+      "path": "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png",
+      "sha256": "fe2f829111520c65f6a181b1423b7039c041a96c93124bb7e02fdf86798c6841",
+      "bytes": 2300300,
+      "classification": "canonical"
+    },
+    "Assets/Nyssarian-Industrial-Research-Complex-Reference-Sheet.png": {
+      "path": "Assets/Nyssarian-Industrial-Research-Complex-Reference-Sheet.png",
+      "sha256": "6c4458dbd2c664ff2c64f71d3eb973fd5c7bb09956e2413ed14bdb52541457ff",
+      "bytes": 3045862,
+      "classification": "canonical"
+    },
+    "Assets/Nyssarian-Laboratory-Reference-Sheet.png": {
+      "path": "Assets/Nyssarian-Laboratory-Reference-Sheet.png",
+      "sha256": "78f777f2ad364ab6180ff7dbe11460462e5f6b094b97e0db0c299a05253cadb4",
+      "bytes": 2357104,
+      "classification": "canonical"
+    },
+    "Assets/Nyssarian-MF-51-Monoplane-Production-Sheet.png": {
+      "path": "Assets/Nyssarian-MF-51-Monoplane-Production-Sheet.png",
+      "sha256": "640fa3791b9a5a18af173ae3059c3bde4b03e00fa7ac035b161bbebde1bdd4b3",
+      "bytes": 2346965,
+      "classification": "canonical"
+    },
+    "Assets/Nyssarian-Mana-Bomb-Reference-Sheet.png": {
+      "path": "Assets/Nyssarian-Mana-Bomb-Reference-Sheet.png",
+      "sha256": "e9a9e06ab760ffdf6bf6e45bfdfc0a169daeb35a2e48b7f0629b0bd7ad80210c",
+      "bytes": 2449914,
+      "classification": "canonical"
+    },
+    "Assets/Nyssarian-Physicist-Reference-Sheet.png": {
+      "path": "Assets/Nyssarian-Physicist-Reference-Sheet.png",
+      "sha256": "01f8be7751d0566e55f19c5e74ec9a1521a5b1cb975f6d7a01a502c6344cf392",
+      "bytes": 2315584,
+      "classification": "canonical"
+    },
+    "Assets/Nyssarian_Language_and_Script.docx": {
+      "path": "Assets/Nyssarian_Language_and_Script.docx",
+      "sha256": "2edfdb29b5cebe0e3acca50253f7d9723a23c3ef023213d36efdd947b4afb8c8",
+      "bytes": 38874,
+      "classification": "canonical"
+    },
+    "Assets/Prehistoric-Forest-Reference-Sheet.png": {
+      "path": "Assets/Prehistoric-Forest-Reference-Sheet.png",
+      "sha256": "900422167b27a6bc08f84846942e411daa6a05634b2d8d672bfb094a83b510b8",
+      "bytes": 3687185,
+      "classification": "canonical"
+    },
+    "Assets/Primitive-Ashiba-Shrine-Reference-Sheet.png": {
+      "path": "Assets/Primitive-Ashiba-Shrine-Reference-Sheet.png",
+      "sha256": "2d058e6ad6ee5ba7553c0b611aaae06fa7edff3bcd557f9eb199ea27bb9e8e79",
+      "bytes": 3073155,
+      "classification": "canonical"
+    },
+    "Assets/Roselyn-production-sheet.png": {
+      "path": "Assets/Roselyn-production-sheet.png",
+      "sha256": "93212a7148f11c7d56041c20eeb48abcd7494ed6425ddba225b0ed46741f1392",
+      "bytes": 2368877,
+      "classification": "canonical"
+    },
+    "Assets/Seraphine character sheet.png": {
+      "path": "Assets/Seraphine character sheet.png",
+      "sha256": "1f5af77e34fd6db10842229d7fca8359f4e0d93eba9b72c5f49b9554376b2003",
+      "bytes": 2791401,
+      "classification": "canonical"
+    },
+    "Assets/Sherin-Character-Sheet.png": {
+      "path": "Assets/Sherin-Character-Sheet.png",
+      "sha256": "0bddce9935897f410e32363460e53bc7f5b1fdb39631f42c7f2aef23af8da571",
+      "bytes": 2517614,
+      "classification": "canonical"
+    },
+    "Assets/Temple-of-Light-Archives-and-Records-Reference-Sheet.png": {
+      "path": "Assets/Temple-of-Light-Archives-and-Records-Reference-Sheet.png",
+      "sha256": "1fccd8f243921d8bb2afc0c890939f686f970141d57e2c52156a497bff7fd4d0",
+      "bytes": 3109801,
+      "classification": "canonical"
+    },
+    "Assets/Temple-of-Light-Environment-Reference-Sheet.png": {
+      "path": "Assets/Temple-of-Light-Environment-Reference-Sheet.png",
+      "sha256": "2b142173fe6771facc3a0b1e470b9d5b20d573243dfebe253b8493f8d4e340ce",
+      "bytes": 3418146,
+      "classification": "canonical"
+    },
+    "Assets/Temple-of-Light-Library-Reference-Sheet.png": {
+      "path": "Assets/Temple-of-Light-Library-Reference-Sheet.png",
+      "sha256": "4600102ef878117541047cfcf969f67c59ee0c6dec9894c23dcfe30c263429ae",
+      "bytes": 3160381,
+      "classification": "canonical"
+    },
+    "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png": {
+      "path": "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+      "sha256": "a407ce1be5ccb7148e9b6a03aca55ffdf54a61a51d7fd0477c5db0eb3427e11e",
+      "bytes": 2641591,
+      "classification": "canonical"
+    },
+    "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png": {
+      "path": "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+      "sha256": "5bc82b1a01d7b0a97c914ecf6428ce0ba79d0470e6272bd03795797084075091",
+      "bytes": 2579820,
+      "classification": "canonical"
+    },
+    "Assets/Time-Machine-Reference-Sheet.png": {
+      "path": "Assets/Time-Machine-Reference-Sheet.png",
+      "sha256": "0cbcab95a0daf782169af8d626109964c5cd8070779defdca7f45162e354bcb9",
+      "bytes": 2694326,
+      "classification": "canonical"
+    },
+    "Assets/WOA-canonical-production-specification.txt": {
+      "path": "Assets/WOA-canonical-production-specification.txt",
+      "sha256": "f99788aa484cdb4bcfaeab5e434c12625cc3d2ad810070c2910cf4471efa22a8",
+      "bytes": 12364,
+      "classification": "canonical"
+    },
+    "Assets/WOA-observation-field-states-sheet.png": {
+      "path": "Assets/WOA-observation-field-states-sheet.png",
+      "sha256": "1407355d9e2e6c7051e19185b24ed5089d116b68a8581d8f5d857c42bdb188ab",
+      "bytes": 2604348,
+      "classification": "supplemental"
+    },
+    "Assets/WOA-production-sheet.png": {
+      "path": "Assets/WOA-production-sheet.png",
+      "sha256": "8fe643706f480cfd2feace3e88143550ac6f1f8280c9e8fe859c4d74788bb07e",
+      "bytes": 2500003,
+      "classification": "canonical"
+    },
+    "Assets/Zoran_Language_and_script.docx": {
+      "path": "Assets/Zoran_Language_and_script.docx",
+      "sha256": "fdc0f4a60c69cb65c414cb74a9eb86f54a692a706b27c8132521cf0b7b901c07",
+      "bytes": 37899,
+      "classification": "canonical"
+    },
+    "Assets/Zorna-canonical-character-specification.txt": {
+      "path": "Assets/Zorna-canonical-character-specification.txt",
+      "sha256": "f728a1d7a90ce70423875c8faf279bcbd6d33050993d2ceab4ff5dac785be344",
+      "bytes": 4993,
+      "classification": "canonical"
+    },
+    "Assets/Zorna-character-sheet.png": {
+      "path": "Assets/Zorna-character-sheet.png",
+      "sha256": "12dedda6edebc9244ad332e141931ce9a4901d3fe870a9e91f884f8e0e54e200",
+      "bytes": 2840683,
+      "classification": "canonical"
+    },
+    "Assets/Zorna-expression-sheet.png": {
+      "path": "Assets/Zorna-expression-sheet.png",
+      "sha256": "3f8044a2643ec1b7579cde39bf0ea18b52d0e4f1a60db82fa5b152c7a7478218",
+      "bytes": 2738185,
+      "classification": "supplemental"
+    }
+  },
+  "scene_bindings": {
+    "CH16-SC001": {
+      "scene_context": [
+        "Assets/Future-City-and-Butterfly-Museum-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Butterfly-Collector-Character-Reference-Sheet.png",
+        "Assets/Blue-Butterfly-Reference-Sheet.png",
+        "Assets/Time-Machine-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [],
+      "panels": [
+        "CH16-P001-PN01",
+        "CH16-P001-PN02",
+        "CH16-P001-PN03",
+        "CH16-P001-PN04",
+        "CH16-P001-PN05"
+      ]
+    },
+    "CH16-SC002": {
+      "scene_context": [
+        "Assets/Prehistoric-Forest-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Butterfly-Collector-Character-Reference-Sheet.png",
+        "Assets/Blue-Butterfly-Reference-Sheet.png",
+        "Assets/Time-Machine-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Butterfly-Collector-Character-Reference-Sheet.png"
+      ],
+      "panels": [
+        "CH16-P002-PN01",
+        "CH16-P002-PN02"
+      ]
+    },
+    "CH16-SC003": {
+      "scene_context": [
+        "Assets/Future-City-and-Butterfly-Museum-Reference-Sheet.png",
+        "Assets/Time-Machine-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Butterfly-Collector-Character-Reference-Sheet.png",
+        "Assets/Time-Machine-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [],
+      "panels": [
+        "CH16-P002-PN03",
+        "CH16-P002-PN04"
+      ]
+    },
+    "CH16-SC004": {
+      "scene_context": [
+        "Assets/Future-City-and-Butterfly-Museum-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Butterfly-Collector-Character-Reference-Sheet.png",
+        "Assets/Blue-Butterfly-Reference-Sheet.png",
+        "Assets/Time-Machine-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [],
+      "panels": [
+        "CH16-P002-PN05"
+      ]
+    },
+    "CH16-SC005": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png",
+        "Assets/Nyssarian_Language_and_Script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png",
+        "Assets/Mana-Crystals-Production-Sheet.png",
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ],
+      "panels": [
+        "CH16-P003-PN01",
+        "CH16-P003-PN02",
+        "CH16-P003-PN03",
+        "CH16-P003-PN04",
+        "CH16-P003-PN05"
+      ]
+    },
+    "CH16-SC006": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png",
+        "Assets/Mana-Crystals-Production-Sheet.png",
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ],
+      "panels": [
+        "CH16-P004-PN01",
+        "CH16-P004-PN02",
+        "CH16-P004-PN03",
+        "CH16-P004-PN04",
+        "CH16-P004-PN05"
+      ]
+    },
+    "CH16-SC007": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png",
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png",
+        "Assets/Frenklyn-Character-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Sherin-Character-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Military-Uniform-Reference-Sheet.png"
+      ],
+      "costume_dependency": [
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png"
+      ],
+      "off_panel_speaker": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png",
+        "Assets/Frenklyn-Character-Sheet.png",
+        "Assets/Sherin-Character-Sheet.png"
+      ],
+      "panels": [
+        "CH16-P005-PN01",
+        "CH16-P005-PN02",
+        "CH16-P005-PN03",
+        "CH16-P005-PN04",
+        "CH16-P005-PN05"
+      ]
+    },
+    "CH16-SC008": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png",
+        "Assets/Nyssarian_Language_and_Script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png",
+        "Assets/Frenklyn-Character-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Sherin-Character-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Military-Uniform-Reference-Sheet.png",
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png"
+      ],
+      "costume_dependency": [
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "off_panel_speaker": [
+        "Assets/Sherin-Character-Sheet.png",
+        "Assets/Frenklyn-Character-Sheet.png"
+      ],
+      "panels": [
+        "CH16-P006-PN01",
+        "CH16-P006-PN02",
+        "CH16-P006-PN03",
+        "CH16-P006-PN04",
+        "CH16-P006-PN05"
+      ]
+    },
+    "CH16-SC009": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/Frontier-Fortress-Production-Sheet.png",
+        "Assets/Nyssarian-Artillery-Reference-Sheet.png",
+        "Assets/Nyssarian-Artillery-Insignia.png",
+        "Assets/Nyssarian-MF-51-Monoplane-Production-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/WOA-observation-field-states-sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "panels": [
+        "CH16-P007-PN01",
+        "CH16-P007-PN02",
+        "CH16-P007-PN03",
+        "CH16-P007-PN04",
+        "CH16-P007-PN05"
+      ]
+    },
+    "CH16-SC010": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/WOA-observation-field-states-sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/WOA-observation-field-states-sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [],
+      "panels": [
+        "CH16-P008-PN01",
+        "CH16-P008-PN02",
+        "CH16-P008-PN03",
+        "CH16-P008-PN04",
+        "CH16-P008-PN05"
+      ]
+    },
+    "CH16-SC011": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/WOA-observation-field-states-sheet.png",
+        "Assets/Primitive-Ashiba-Shrine-Reference-Sheet.png",
+        "Assets/Zorna-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/WOA-observation-field-states-sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png",
+        "Assets/Zorna-character-sheet.png",
+        "Assets/Zorna-expression-sheet.png",
+        "Assets/Ashiba-Character-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png",
+        "Assets/Ashiba-Character-Sheet.png"
+      ],
+      "panels": [
+        "CH16-P009-PN01",
+        "CH16-P009-PN02",
+        "CH16-P009-PN03",
+        "CH16-P009-PN04",
+        "CH16-P009-PN05"
+      ]
+    },
+    "CH16-SC012": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/Primitive-Ashiba-Shrine-Reference-Sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/Zorna-canonical-character-specification.txt",
+        "Assets/WOA-observation-field-states-sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/WOA-observation-field-states-sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png",
+        "Assets/Zorna-character-sheet.png",
+        "Assets/Zorna-expression-sheet.png",
+        "Assets/Ashiba-Character-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Ashiba-Character-Sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "panels": [
+        "CH16-P010-PN01",
+        "CH16-P010-PN02",
+        "CH16-P010-PN03",
+        "CH16-P010-PN04",
+        "CH16-P010-PN05"
+      ]
+    },
+    "CH16-SC013": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/Primitive-Ashiba-Shrine-Reference-Sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/Zorna-canonical-character-specification.txt",
+        "Assets/WOA-observation-field-states-sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/WOA-observation-field-states-sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png",
+        "Assets/Zorna-character-sheet.png",
+        "Assets/Zorna-expression-sheet.png",
+        "Assets/Ashiba-Character-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Ashiba-Character-Sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png",
+        "Assets/Zorna-character-sheet.png",
+        "Assets/Zorna-expression-sheet.png"
+      ],
+      "panels": [
+        "CH16-P011-PN01",
+        "CH16-P011-PN02",
+        "CH16-P011-PN03",
+        "CH16-P011-PN04",
+        "CH16-P011-PN05"
+      ]
+    },
+    "CH16-SC014": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/Primitive-Ashiba-Shrine-Reference-Sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/Zorna-canonical-character-specification.txt",
+        "Assets/WOA-observation-field-states-sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Zorna-character-sheet.png",
+        "Assets/Zorna-expression-sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png",
+        "Assets/Ashiba-Character-Sheet.png",
+        "Assets/WOA-observation-field-states-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png",
+        "Assets/Ashiba-Character-Sheet.png",
+        "Assets/Zorna-character-sheet.png",
+        "Assets/Zorna-expression-sheet.png"
+      ],
+      "panels": [
+        "CH16-P012-PN01",
+        "CH16-P012-PN02",
+        "CH16-P012-PN03",
+        "CH16-P012-PN04",
+        "CH16-P012-PN05"
+      ]
+    },
+    "CH16-SC015": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/Primitive-Ashiba-Shrine-Reference-Sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/Zorna-canonical-character-specification.txt",
+        "Assets/WOA-observation-field-states-sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/WOA-observation-field-states-sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png",
+        "Assets/Zorna-character-sheet.png",
+        "Assets/Zorna-expression-sheet.png",
+        "Assets/Ashiba-Character-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Zorna-character-sheet.png",
+        "Assets/Zorna-expression-sheet.png",
+        "Assets/Ashiba-Character-Sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "panels": [
+        "CH16-P013-PN01",
+        "CH16-P013-PN02",
+        "CH16-P013-PN03",
+        "CH16-P013-PN04",
+        "CH16-P013-PN05"
+      ]
+    },
+    "CH16-SC016": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/Nyssarian-Artillery-Reference-Sheet.png",
+        "Assets/Nyssarian-Artillery-Insignia.png",
+        "Assets/Nyssarian-MF-51-Monoplane-Production-Sheet.png",
+        "Assets/WOA-observation-field-states-sheet.png",
+        "Assets/Frontier-Fortress-Production-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/WOA-observation-field-states-sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png",
+        "Assets/Examination-and-Tactical-Map-Props.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "panels": [
+        "CH16-P014-PN01",
+        "CH16-P014-PN02",
+        "CH16-P014-PN03",
+        "CH16-P014-PN04",
+        "CH16-P014-PN05"
+      ]
+    },
+    "CH16-SC017": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png",
+        "Assets/Nyssarian_Language_and_Script.docx",
+        "Assets/Nyssara-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png",
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png",
+        "Assets/Mana-Crystals-Production-Sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png",
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ],
+      "panels": [
+        "CH16-P015-PN01",
+        "CH16-P015-PN02",
+        "CH16-P015-PN03",
+        "CH16-P015-PN04",
+        "CH16-P015-PN05"
+      ]
+    },
+    "CH16-SC018": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png",
+        "Assets/Nyssarian_Language_and_Script.docx",
+        "Assets/Nyssara-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png",
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "panels": [
+        "CH16-P016-PN01",
+        "CH16-P016-PN02",
+        "CH16-P016-PN03",
+        "CH16-P016-PN04",
+        "CH16-P016-PN05"
+      ]
+    },
+    "CH16-SC019": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/Nyssarian_Language_and_Script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png",
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png",
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ],
+      "panels": [
+        "CH16-P017-PN01",
+        "CH16-P017-PN02",
+        "CH16-P017-PN03",
+        "CH16-P017-PN04",
+        "CH16-P017-PN05"
+      ]
+    },
+    "CH16-SC020": {
+      "scene_context": [
+        "Assets/Nyssarian-Government-and-Military-Conference-Reference-Sheet.png",
+        "Assets/Nyssarian_Language_and_Script.docx",
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png",
+        "Assets/Mana-Crystals-Production-Sheet.png",
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ],
+      "panels": [
+        "CH16-P018-PN01",
+        "CH16-P018-PN02",
+        "CH16-P018-PN03",
+        "CH16-P018-PN04",
+        "CH16-P018-PN05"
+      ]
+    },
+    "CH16-SC021": {
+      "scene_context": [
+        "Assets/Ashiba-Academy-Classroom-Reference-Sheet.png",
+        "Assets/Ashiba-Academy-Asset-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashiba-Academy-Asset-Reference-Sheet.png",
+        "Assets/Academy-Uniform-Midori.png",
+        "Assets/Academy-Uniform-Female.png",
+        "Assets/Academy-Uniform-Male.png"
+      ],
+      "costume_dependency": [
+        "Assets/Academy-Uniform-Midori.png"
+      ],
+      "off_panel_speaker": [],
+      "panels": [
+        "CH16-P019-PN01",
+        "CH16-P019-PN02",
+        "CH16-P019-PN03",
+        "CH16-P019-PN04",
+        "CH16-P019-PN05"
+      ]
+    },
+    "CH16-SC022": {
+      "scene_context": [
+        "Assets/Ashiba-Academy-Classroom-Reference-Sheet.png",
+        "Assets/Ashiba-Academy-Asset-Reference-Sheet.png",
+        "Assets/Ashiba-Academy-Corridor-Reference-Board.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashiba-Academy-Asset-Reference-Sheet.png",
+        "Assets/Academy-Uniform-Midori.png",
+        "Assets/Academy-Uniform-Female.png",
+        "Assets/Academy-Uniform-Male.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [],
+      "panels": [
+        "CH16-P020-PN01",
+        "CH16-P020-PN02",
+        "CH16-P020-PN03",
+        "CH16-P020-PN04",
+        "CH16-P020-PN05"
+      ]
+    },
+    "CH16-SC023": {
+      "scene_context": [
+        "Assets/Temple-of-Light-Environment-Reference-Sheet.png",
+        "Assets/High-Priestess-Seraphine’s-Office-Suite.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Seraphine character sheet.png",
+        "Assets/Roselyn-production-sheet.png",
+        "Assets/Helena Model Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Seraphine character sheet.png",
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ],
+      "panels": [
+        "CH16-P021-PN01",
+        "CH16-P021-PN02",
+        "CH16-P021-PN03",
+        "CH16-P021-PN04",
+        "CH16-P021-PN05"
+      ]
+    },
+    "CH16-SC024": {
+      "scene_context": [
+        "Assets/High-Priestess-Seraphine’s-Office-Suite.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Seraphine character sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [],
+      "panels": [
+        "CH16-P022-PN01"
+      ]
+    },
+    "CH16-SC025": {
+      "scene_context": [
+        "Assets/Temple-of-Light-Archives-and-Records-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Seraphine character sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [],
+      "panels": [
+        "CH16-P022-PN02"
+      ]
+    },
+    "CH16-SC026": {
+      "scene_context": [
+        "Assets/Temple-of-Light-Archives-and-Records-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Seraphine character sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Seraphine character sheet.png"
+      ],
+      "panels": [
+        "CH16-P022-PN03",
+        "CH16-P022-PN04",
+        "CH16-P022-PN05"
+      ]
+    },
+    "CH16-SC027": {
+      "scene_context": [
+        "Assets/Temple-of-Light-Environment-Reference-Sheet.png",
+        "Assets/Temple-of-Light-Archives-and-Records-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Seraphine character sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [],
+      "panels": [
+        "CH16-P023-PN01"
+      ]
+    },
+    "CH16-SC028": {
+      "scene_context": [
+        "Assets/Ashire-Office-Academy-Interior-Reference-Sheet.png",
+        "Assets/Ashiba-Academy-Administration-Building-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Ashire-Character-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [],
+      "panels": [
+        "CH16-P023-PN02"
+      ]
+    },
+    "CH16-SC029": {
+      "scene_context": [
+        "Assets/Ashire-Office-Academy-Interior-Reference-Sheet.png",
+        "Assets/Temple-of-Light-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashire-Character-Sheet.png",
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Seraphine character sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ],
+      "panels": [
+        "CH16-P023-PN03",
+        "CH16-P023-PN04",
+        "CH16-P023-PN05"
+      ]
+    },
+    "CH16-SC030": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png",
+        "Assets/Nyssarian-Industrial-Research-Complex-Reference-Sheet.png",
+        "Assets/Nyssarian-Mana-Bomb-Reference-Sheet.png",
+        "Assets/Mana-Crystals-Production-Sheet.png",
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png",
+        "Assets/Mana-Crystals-Production-Sheet.png",
+        "Assets/Nyssarian-Mana-Bomb-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ],
+      "panels": [
+        "CH16-P024-PN01",
+        "CH16-P024-PN02",
+        "CH16-P024-PN03",
+        "CH16-P024-PN04",
+        "CH16-P024-PN05"
+      ]
+    },
+    "CH16-SC031": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png",
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png",
+        "Assets/Nyssarian-Mana-Bomb-Reference-Sheet.png",
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png",
+        "Assets/Military-Uniform-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ],
+      "panels": [
+        "CH16-P025-PN01",
+        "CH16-P025-PN02",
+        "CH16-P025-PN03",
+        "CH16-P025-PN04",
+        "CH16-P025-PN05"
+      ]
+    },
+    "CH16-SC032": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Military-Uniform-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [],
+      "panels": [
+        "CH16-P026-PN01",
+        "CH16-P026-PN02",
+        "CH16-P026-PN03",
+        "CH16-P026-PN04",
+        "CH16-P026-PN05"
+      ]
+    },
+    "CH16-SC033": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png",
+        "Assets/Nyssara-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ],
+      "panels": [
+        "CH16-P027-PN01",
+        "CH16-P027-PN02",
+        "CH16-P027-PN03",
+        "CH16-P027-PN04",
+        "CH16-P027-PN05"
+      ]
+    },
+    "CH16-SC034": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png",
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [],
+      "panels": [
+        "CH16-P028-PN01",
+        "CH16-P028-PN02",
+        "CH16-P028-PN03",
+        "CH16-P028-PN04",
+        "CH16-P028-PN05"
+      ]
+    },
+    "CH16-SC035": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png",
+        "Assets/Frontier-Fortress-Production-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Ashire-Character-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [],
+      "panels": [
+        "CH16-P029-PN01",
+        "CH16-P029-PN02",
+        "CH16-P029-PN03",
+        "CH16-P029-PN04",
+        "CH16-P029-PN05"
+      ]
+    },
+    "CH16-SC036": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashire-Character-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Military-Uniform-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Ashire-Character-Sheet.png"
+      ],
+      "panels": [
+        "CH16-P030-PN01",
+        "CH16-P030-PN02",
+        "CH16-P030-PN03",
+        "CH16-P030-PN04",
+        "CH16-P030-PN05"
+      ]
+    },
+    "CH16-SC037": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashire-Character-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Ashire-Character-Sheet.png"
+      ],
+      "panels": [
+        "CH16-P031-PN01",
+        "CH16-P031-PN02",
+        "CH16-P031-PN03",
+        "CH16-P031-PN04",
+        "CH16-P031-PN05"
+      ]
+    },
+    "CH16-SC038": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashire-Character-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [],
+      "panels": [
+        "CH16-P032-PN01",
+        "CH16-P032-PN02",
+        "CH16-P032-PN03",
+        "CH16-P032-PN04",
+        "CH16-P032-PN05"
+      ]
+    },
+    "CH16-SC039": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashire-Character-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Mana-Crystals-Production-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [],
+      "panels": [
+        "CH16-P033-PN01",
+        "CH16-P033-PN02",
+        "CH16-P033-PN03",
+        "CH16-P033-PN04",
+        "CH16-P033-PN05"
+      ]
+    },
+    "CH16-SC040": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashire-Character-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Mana-Crystals-Production-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Ashire-Character-Sheet.png"
+      ],
+      "panels": [
+        "CH16-P034-PN01",
+        "CH16-P034-PN02",
+        "CH16-P034-PN03",
+        "CH16-P034-PN04",
+        "CH16-P034-PN05"
+      ]
+    },
+    "CH16-SC041": {
+      "scene_context": [
+        "Assets/Temple-of-Light-Environment-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Seraphine character sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Seraphine character sheet.png"
+      ],
+      "panels": [
+        "CH16-P035-PN01",
+        "CH16-P035-PN02",
+        "CH16-P035-PN03",
+        "CH16-P035-PN04",
+        "CH16-P035-PN05"
+      ]
+    },
+    "CH16-SC042": {
+      "scene_context": [
+        "Assets/Temple-of-Light-Environment-Reference-Sheet.png",
+        "Assets/High-Priestess-Seraphine’s-Office-Suite.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Seraphine character sheet.png",
+        "Assets/Ashire-Character-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [],
+      "panels": [
+        "CH16-P036-PN01",
+        "CH16-P036-PN02",
+        "CH16-P036-PN03",
+        "CH16-P036-PN04",
+        "CH16-P036-PN05"
+      ]
+    },
+    "CH16-SC043": {
+      "scene_context": [
+        "Assets/Temple-of-Light-Environment-Reference-Sheet.png",
+        "Assets/Temple-of-Light-Library-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Seraphine character sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ],
+      "panels": [
+        "CH16-P037-PN01",
+        "CH16-P037-PN02",
+        "CH16-P037-PN03",
+        "CH16-P037-PN04",
+        "CH16-P037-PN05"
+      ]
+    },
+    "CH16-SC044": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Nyssarian-Mana-Bomb-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png",
+        "Assets/Examination-and-Tactical-Map-Props.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ],
+      "panels": [
+        "CH16-P038-PN01",
+        "CH16-P038-PN02",
+        "CH16-P038-PN03",
+        "CH16-P038-PN04",
+        "CH16-P038-PN05"
+      ]
+    },
+    "CH16-SC045": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx",
+        "Assets/Mana-Crystals-Production-Sheet.png",
+        "Assets/Examination-and-Tactical-Map-Props.png"
+      ],
+      "panel_visible": [
+        "Assets/Brienmay-production-sheet.png",
+        "Assets/Military-Uniform-Reference-Sheet.png",
+        "Assets/Nyssarian-Mana-Bomb-Reference-Sheet.png",
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ],
+      "costume_dependency": [
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "panels": [
+        "CH16-P039-PN01",
+        "CH16-P039-PN02",
+        "CH16-P039-PN03",
+        "CH16-P039-PN04",
+        "CH16-P039-PN05"
+      ]
+    },
+    "CH16-SC046": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx",
+        "Assets/Nyssarian-Mana-Bomb-Reference-Sheet.png",
+        "Assets/Examination-and-Tactical-Map-Props.png"
+      ],
+      "panel_visible": [
+        "Assets/Brienmay-production-sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Examination-and-Tactical-Map-Props.png",
+        "Assets/Ashire-Character-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ],
+      "panels": [
+        "CH16-P040-PN01",
+        "CH16-P040-PN02",
+        "CH16-P040-PN03",
+        "CH16-P040-PN04",
+        "CH16-P040-PN05"
+      ]
+    },
+    "CH16-SC047": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx",
+        "Assets/Emergency-Refuge-Shelter-Reference-Sheet.png",
+        "Assets/Examination-and-Tactical-Map-Props.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png",
+        "Assets/Buren-Age16-Reference-Sheet.png",
+        "Assets/Buren-Mage-Character-Reference-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "panels": [
+        "CH16-P041-PN01",
+        "CH16-P041-PN02",
+        "CH16-P041-PN03",
+        "CH16-P041-PN04",
+        "CH16-P041-PN05"
+      ]
+    },
+    "CH16-SC048": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Nyssarian-Mana-Bomb-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ],
+      "panels": [
+        "CH16-P042-PN01",
+        "CH16-P042-PN02",
+        "CH16-P042-PN03",
+        "CH16-P042-PN04",
+        "CH16-P042-PN05"
+      ]
+    },
+    "CH16-SC049": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Brienmay-production-sheet.png",
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "panels": [
+        "CH16-P043-PN01",
+        "CH16-P043-PN02",
+        "CH16-P043-PN03",
+        "CH16-P043-PN04",
+        "CH16-P043-PN05"
+      ]
+    },
+    "CH16-SC050": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Brienmay-production-sheet.png",
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "panels": [
+        "CH16-P044-PN01",
+        "CH16-P044-PN02",
+        "CH16-P044-PN03",
+        "CH16-P044-PN04",
+        "CH16-P044-PN05"
+      ]
+    },
+    "CH16-SC051": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ],
+      "panels": [
+        "CH16-P045-PN01",
+        "CH16-P045-PN02",
+        "CH16-P045-PN03",
+        "CH16-P045-PN04",
+        "CH16-P045-PN05"
+      ]
+    },
+    "CH16-SC052": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png",
+        "Assets/Examination-and-Tactical-Map-Props.png",
+        "Assets/Nyssarian-Mana-Bomb-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "panels": [
+        "CH16-P046-PN01",
+        "CH16-P046-PN02",
+        "CH16-P046-PN03",
+        "CH16-P046-PN04",
+        "CH16-P046-PN05"
+      ]
+    },
+    "CH16-SC053": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Midori-Mana-Gauge-Production-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Mana-Crystals-Production-Sheet.png",
+        "Assets/Brienmay-production-sheet.png",
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Midori-Mana-Gauge-Production-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "panels": [
+        "CH16-P047-PN01",
+        "CH16-P047-PN02",
+        "CH16-P047-PN03",
+        "CH16-P047-PN04",
+        "CH16-P047-PN05"
+      ]
+    },
+    "CH16-SC054": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Midori-Mana-Gauge-Production-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Midori-Mana-Gauge-Production-Sheet.png",
+        "Assets/Brienmay-production-sheet.png",
+        "Assets/Mana-Crystals-Production-Sheet.png"
+      ],
+      "costume_dependency": [
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "off_panel_speaker": [
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "panels": [
+        "CH16-P048-PN01",
+        "CH16-P048-PN02",
+        "CH16-P048-PN03",
+        "CH16-P048-PN04",
+        "CH16-P048-PN05"
+      ]
+    },
+    "CH16-SC055": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Midori-Mana-Gauge-Production-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Mana-Crystals-Production-Sheet.png",
+        "Assets/Midori-Mana-Gauge-Production-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "panels": [
+        "CH16-P049-PN01",
+        "CH16-P049-PN02",
+        "CH16-P049-PN03",
+        "CH16-P049-PN04",
+        "CH16-P049-PN05"
+      ]
+    },
+    "CH16-SC056": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Midori-Mana-Gauge-Production-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Midori-Mana-Gauge-Production-Sheet.png",
+        "Assets/Mana-Crystals-Production-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Brienmay-production-sheet.png",
+        "Assets/Ashire-Character-Sheet.png"
+      ],
+      "panels": [
+        "CH16-P050-PN01",
+        "CH16-P050-PN02",
+        "CH16-P050-PN03",
+        "CH16-P050-PN04",
+        "CH16-P050-PN05"
+      ]
+    },
+    "CH16-SC057": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Brienmay-production-sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Mana-Crystals-Production-Sheet.png",
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Ashire-Character-Sheet.png"
+      ],
+      "costume_dependency": [
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Ashire-Character-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "panels": [
+        "CH16-P051-PN01",
+        "CH16-P051-PN02",
+        "CH16-P051-PN03",
+        "CH16-P051-PN04",
+        "CH16-P051-PN05"
+      ]
+    }
+  },
+  "panel_bindings": {
+    "CH16-P001-PN01": {
+      "scene_context": [
+        "Assets/Future-City-and-Butterfly-Museum-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Butterfly-Collector-Character-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P001-PN02": {
+      "scene_context": [
+        "Assets/Future-City-and-Butterfly-Museum-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Butterfly-Collector-Character-Reference-Sheet.png",
+        "Assets/Blue-Butterfly-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P001-PN03": {
+      "scene_context": [
+        "Assets/Future-City-and-Butterfly-Museum-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Butterfly-Collector-Character-Reference-Sheet.png",
+        "Assets/Blue-Butterfly-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P001-PN04": {
+      "scene_context": [
+        "Assets/Future-City-and-Butterfly-Museum-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Butterfly-Collector-Character-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P001-PN05": {
+      "scene_context": [
+        "Assets/Future-City-and-Butterfly-Museum-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Butterfly-Collector-Character-Reference-Sheet.png",
+        "Assets/Time-Machine-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P002-PN01": {
+      "scene_context": [
+        "Assets/Prehistoric-Forest-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Butterfly-Collector-Character-Reference-Sheet.png",
+        "Assets/Blue-Butterfly-Reference-Sheet.png",
+        "Assets/Time-Machine-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P002-PN02": {
+      "scene_context": [],
+      "panel_visible": [
+        "Assets/Time-Machine-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Butterfly-Collector-Character-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P002-PN03": {
+      "scene_context": [
+        "Assets/Future-City-and-Butterfly-Museum-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Butterfly-Collector-Character-Reference-Sheet.png",
+        "Assets/Time-Machine-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P002-PN04": {
+      "scene_context": [
+        "Assets/Future-City-and-Butterfly-Museum-Reference-Sheet.png",
+        "Assets/Time-Machine-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Butterfly-Collector-Character-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P002-PN05": {
+      "scene_context": [
+        "Assets/Future-City-and-Butterfly-Museum-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Butterfly-Collector-Character-Reference-Sheet.png",
+        "Assets/Blue-Butterfly-Reference-Sheet.png",
+        "Assets/Time-Machine-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P003-PN01": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png",
+        "Assets/Nyssarian_Language_and_Script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png",
+        "Assets/Mana-Crystals-Production-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P003-PN02": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png",
+        "Assets/Mana-Crystals-Production-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P003-PN03": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png",
+        "Assets/Nyssarian_Language_and_Script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P003-PN04": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P003-PN05": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P004-PN01": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P004-PN02": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png",
+        "Assets/Mana-Crystals-Production-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P004-PN03": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P004-PN04": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P004-PN05": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png",
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P005-PN01": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png",
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P005-PN02": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png",
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P005-PN03": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Frenklyn-Character-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Sherin-Character-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Military-Uniform-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P005-PN04": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Frenklyn-Character-Sheet.png",
+        "Assets/Sherin-Character-Sheet.png"
+      ],
+      "costume_dependency": [
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png"
+      ],
+      "off_panel_speaker": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P005-PN05": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ],
+      "costume_dependency": [
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png"
+      ],
+      "off_panel_speaker": [
+        "Assets/Frenklyn-Character-Sheet.png",
+        "Assets/Sherin-Character-Sheet.png"
+      ]
+    },
+    "CH16-P006-PN01": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png",
+        "Assets/Frenklyn-Character-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Sherin-Character-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P006-PN02": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png",
+        "Assets/Frenklyn-Character-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "costume_dependency": [
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png"
+      ],
+      "off_panel_speaker": [
+        "Assets/Sherin-Character-Sheet.png"
+      ]
+    },
+    "CH16-P006-PN03": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png",
+        "Assets/Nyssarian_Language_and_Script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ],
+      "costume_dependency": [
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png"
+      ],
+      "off_panel_speaker": [
+        "Assets/Frenklyn-Character-Sheet.png",
+        "Assets/Sherin-Character-Sheet.png"
+      ]
+    },
+    "CH16-P006-PN04": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Military-Uniform-Reference-Sheet.png",
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png"
+      ],
+      "costume_dependency": [
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png"
+      ],
+      "off_panel_speaker": [
+        "Assets/Frenklyn-Character-Sheet.png",
+        "Assets/Sherin-Character-Sheet.png"
+      ]
+    },
+    "CH16-P006-PN05": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png",
+        "Assets/Nyssarian_Language_and_Script.docx"
+      ],
+      "panel_visible": [],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P007-PN01": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/WOA-observation-field-states-sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P007-PN02": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/WOA-observation-field-states-sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P007-PN03": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/Frontier-Fortress-Production-Sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/Nyssarian-Artillery-Reference-Sheet.png",
+        "Assets/Nyssarian-Artillery-Insignia.png",
+        "Assets/Nyssarian-MF-51-Monoplane-Production-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/WOA-observation-field-states-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ]
+    },
+    "CH16-P007-PN04": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/Frontier-Fortress-Production-Sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/WOA-observation-field-states-sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P007-PN05": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/WOA-observation-field-states-sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P008-PN01": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/WOA-observation-field-states-sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P008-PN02": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/WOA-observation-field-states-sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P008-PN03": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/WOA-observation-field-states-sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P008-PN04": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/WOA-observation-field-states-sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P008-PN05": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/WOA-observation-field-states-sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P009-PN01": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/WOA-observation-field-states-sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P009-PN02": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/WOA-observation-field-states-sheet.png"
+      ],
+      "panel_visible": [],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ]
+    },
+    "CH16-P009-PN03": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/WOA-observation-field-states-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ]
+    },
+    "CH16-P009-PN04": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/Primitive-Ashiba-Shrine-Reference-Sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/Zorna-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/WOA-observation-field-states-sheet.png",
+        "Assets/Zorna-character-sheet.png",
+        "Assets/Zorna-expression-sheet.png",
+        "Assets/Ashiba-Character-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ]
+    },
+    "CH16-P009-PN05": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/Primitive-Ashiba-Shrine-Reference-Sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/Zorna-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/WOA-observation-field-states-sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png",
+        "Assets/Zorna-character-sheet.png",
+        "Assets/Zorna-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Ashiba-Character-Sheet.png"
+      ]
+    },
+    "CH16-P010-PN01": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/Primitive-Ashiba-Shrine-Reference-Sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/Zorna-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/WOA-observation-field-states-sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png",
+        "Assets/Zorna-character-sheet.png",
+        "Assets/Zorna-expression-sheet.png",
+        "Assets/Ashiba-Character-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P010-PN02": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/Primitive-Ashiba-Shrine-Reference-Sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/Zorna-canonical-character-specification.txt",
+        "Assets/WOA-observation-field-states-sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png",
+        "Assets/Zorna-character-sheet.png",
+        "Assets/Zorna-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Ashiba-Character-Sheet.png"
+      ]
+    },
+    "CH16-P010-PN03": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/Primitive-Ashiba-Shrine-Reference-Sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/Zorna-canonical-character-specification.txt",
+        "Assets/WOA-observation-field-states-sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png",
+        "Assets/Zorna-character-sheet.png",
+        "Assets/Zorna-expression-sheet.png",
+        "Assets/Ashiba-Character-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P010-PN04": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/Primitive-Ashiba-Shrine-Reference-Sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/Zorna-canonical-character-specification.txt",
+        "Assets/WOA-observation-field-states-sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Zorna-character-sheet.png",
+        "Assets/Zorna-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png",
+        "Assets/Ashiba-Character-Sheet.png"
+      ]
+    },
+    "CH16-P010-PN05": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/Primitive-Ashiba-Shrine-Reference-Sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/Zorna-canonical-character-specification.txt",
+        "Assets/WOA-observation-field-states-sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png",
+        "Assets/Zorna-character-sheet.png",
+        "Assets/Zorna-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Ashiba-Character-Sheet.png"
+      ]
+    },
+    "CH16-P011-PN01": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/Primitive-Ashiba-Shrine-Reference-Sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/Zorna-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/WOA-observation-field-states-sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png",
+        "Assets/Zorna-character-sheet.png",
+        "Assets/Zorna-expression-sheet.png",
+        "Assets/Ashiba-Character-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P011-PN02": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/Primitive-Ashiba-Shrine-Reference-Sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/Zorna-canonical-character-specification.txt",
+        "Assets/WOA-observation-field-states-sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png",
+        "Assets/Zorna-character-sheet.png",
+        "Assets/Zorna-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Ashiba-Character-Sheet.png"
+      ]
+    },
+    "CH16-P011-PN03": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/Primitive-Ashiba-Shrine-Reference-Sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/Zorna-canonical-character-specification.txt",
+        "Assets/WOA-observation-field-states-sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Zorna-character-sheet.png",
+        "Assets/Zorna-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png",
+        "Assets/Ashiba-Character-Sheet.png"
+      ]
+    },
+    "CH16-P011-PN04": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/Primitive-Ashiba-Shrine-Reference-Sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/Zorna-canonical-character-specification.txt",
+        "Assets/WOA-observation-field-states-sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Zorna-character-sheet.png",
+        "Assets/Zorna-expression-sheet.png",
+        "Assets/Ashiba-Character-Sheet.png"
+      ]
+    },
+    "CH16-P011-PN05": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/Primitive-Ashiba-Shrine-Reference-Sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/Zorna-canonical-character-specification.txt",
+        "Assets/WOA-observation-field-states-sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png",
+        "Assets/Zorna-character-sheet.png",
+        "Assets/Zorna-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Ashiba-Character-Sheet.png"
+      ]
+    },
+    "CH16-P012-PN01": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/Primitive-Ashiba-Shrine-Reference-Sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/Zorna-canonical-character-specification.txt",
+        "Assets/WOA-observation-field-states-sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Zorna-character-sheet.png",
+        "Assets/Zorna-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png",
+        "Assets/Ashiba-Character-Sheet.png"
+      ]
+    },
+    "CH16-P012-PN02": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/Primitive-Ashiba-Shrine-Reference-Sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/Zorna-canonical-character-specification.txt",
+        "Assets/WOA-observation-field-states-sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Zorna-character-sheet.png",
+        "Assets/Zorna-expression-sheet.png",
+        "Assets/Ashiba-Character-Sheet.png"
+      ]
+    },
+    "CH16-P012-PN03": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/Primitive-Ashiba-Shrine-Reference-Sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/Zorna-canonical-character-specification.txt",
+        "Assets/WOA-observation-field-states-sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Zorna-character-sheet.png",
+        "Assets/Zorna-expression-sheet.png",
+        "Assets/Ashiba-Character-Sheet.png"
+      ]
+    },
+    "CH16-P012-PN04": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/Primitive-Ashiba-Shrine-Reference-Sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/Zorna-canonical-character-specification.txt",
+        "Assets/WOA-observation-field-states-sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Zorna-character-sheet.png",
+        "Assets/Zorna-expression-sheet.png",
+        "Assets/Ashiba-Character-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ]
+    },
+    "CH16-P012-PN05": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/Primitive-Ashiba-Shrine-Reference-Sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/Zorna-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/WOA-observation-field-states-sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png",
+        "Assets/Ashiba-Character-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Zorna-character-sheet.png",
+        "Assets/Zorna-expression-sheet.png"
+      ]
+    },
+    "CH16-P013-PN01": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/Primitive-Ashiba-Shrine-Reference-Sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/Zorna-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/WOA-observation-field-states-sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Zorna-character-sheet.png",
+        "Assets/Zorna-expression-sheet.png",
+        "Assets/Ashiba-Character-Sheet.png"
+      ]
+    },
+    "CH16-P013-PN02": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/Primitive-Ashiba-Shrine-Reference-Sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/Zorna-canonical-character-specification.txt",
+        "Assets/WOA-observation-field-states-sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Zorna-character-sheet.png",
+        "Assets/Zorna-expression-sheet.png",
+        "Assets/Ashiba-Character-Sheet.png"
+      ]
+    },
+    "CH16-P013-PN03": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/Primitive-Ashiba-Shrine-Reference-Sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/Zorna-canonical-character-specification.txt",
+        "Assets/WOA-observation-field-states-sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Zorna-character-sheet.png",
+        "Assets/Zorna-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png",
+        "Assets/Ashiba-Character-Sheet.png"
+      ]
+    },
+    "CH16-P013-PN04": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/Primitive-Ashiba-Shrine-Reference-Sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/Zorna-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/WOA-observation-field-states-sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Zorna-character-sheet.png",
+        "Assets/Zorna-expression-sheet.png",
+        "Assets/Ashiba-Character-Sheet.png"
+      ]
+    },
+    "CH16-P013-PN05": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/Primitive-Ashiba-Shrine-Reference-Sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/Zorna-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/WOA-observation-field-states-sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png",
+        "Assets/Zorna-character-sheet.png",
+        "Assets/Zorna-expression-sheet.png",
+        "Assets/Ashiba-Character-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P014-PN01": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/WOA-observation-field-states-sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P014-PN02": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/Nyssarian-Artillery-Reference-Sheet.png",
+        "Assets/Nyssarian-Artillery-Insignia.png",
+        "Assets/Nyssarian-MF-51-Monoplane-Production-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/WOA-observation-field-states-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ]
+    },
+    "CH16-P014-PN03": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/WOA-observation-field-states-sheet.png",
+        "Assets/Nyssarian-Artillery-Reference-Sheet.png",
+        "Assets/Nyssarian-Artillery-Insignia.png",
+        "Assets/Nyssarian-MF-51-Monoplane-Production-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png",
+        "Assets/Examination-and-Tactical-Map-Props.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P014-PN04": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/Frontier-Fortress-Production-Sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/Nyssarian-Artillery-Reference-Sheet.png",
+        "Assets/Nyssarian-Artillery-Insignia.png",
+        "Assets/Nyssarian-MF-51-Monoplane-Production-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/WOA-observation-field-states-sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P014-PN05": {
+      "scene_context": [
+        "Assets/WOA-production-sheet.png",
+        "Assets/WOA-canonical-production-specification.txt",
+        "Assets/Nyssara-canonical-character-specification.txt",
+        "Assets/WOA-observation-field-states-sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P015-PN01": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png",
+        "Assets/Nyssarian_Language_and_Script.docx",
+        "Assets/Nyssara-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png",
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png",
+        "Assets/Mana-Crystals-Production-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ]
+    },
+    "CH16-P015-PN02": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png",
+        "Assets/Nyssara-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png",
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P015-PN03": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png",
+        "Assets/Nyssara-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png",
+        "Assets/Mana-Crystals-Production-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P015-PN04": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png",
+        "Assets/Nyssara-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P015-PN05": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png",
+        "Assets/Nyssarian_Language_and_Script.docx",
+        "Assets/Nyssara-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P016-PN01": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png",
+        "Assets/Nyssarian_Language_and_Script.docx",
+        "Assets/Nyssara-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P016-PN02": {
+      "scene_context": [
+        "Assets/Nyssarian_Language_and_Script.docx",
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png",
+        "Assets/Nyssara-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P016-PN03": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png",
+        "Assets/Nyssara-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ]
+    },
+    "CH16-P016-PN04": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png",
+        "Assets/Nyssarian_Language_and_Script.docx",
+        "Assets/Nyssara-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png",
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ]
+    },
+    "CH16-P016-PN05": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png",
+        "Assets/Nyssara-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P017-PN01": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png",
+        "Assets/Nyssara-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P017-PN02": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png",
+        "Assets/Nyssarian_Language_and_Script.docx",
+        "Assets/Nyssara-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png",
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ]
+    },
+    "CH16-P017-PN03": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png",
+        "Assets/Nyssarian_Language_and_Script.docx",
+        "Assets/Nyssara-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png",
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P017-PN04": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png",
+        "Assets/Nyssara-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P017-PN05": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png",
+        "Assets/Nyssara-canonical-character-specification.txt"
+      ],
+      "panel_visible": [],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png",
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ]
+    },
+    "CH16-P018-PN01": {
+      "scene_context": [
+        "Assets/Nyssarian-Government-and-Military-Conference-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P018-PN02": {
+      "scene_context": [
+        "Assets/Nyssarian-Government-and-Military-Conference-Reference-Sheet.png",
+        "Assets/Nyssarian_Language_and_Script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P018-PN03": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Mana-Crystals-Production-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P018-PN04": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P018-PN05": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png",
+        "Assets/Nyssarian_Language_and_Script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P019-PN01": {
+      "scene_context": [
+        "Assets/Ashiba-Academy-Classroom-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashiba-Academy-Asset-Reference-Sheet.png",
+        "Assets/Academy-Uniform-Midori.png",
+        "Assets/Academy-Uniform-Female.png",
+        "Assets/Academy-Uniform-Male.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P019-PN02": {
+      "scene_context": [
+        "Assets/Ashiba-Academy-Classroom-Reference-Sheet.png",
+        "Assets/Ashiba-Academy-Asset-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Academy-Uniform-Female.png",
+        "Assets/Academy-Uniform-Male.png"
+      ],
+      "costume_dependency": [
+        "Assets/Academy-Uniform-Midori.png"
+      ],
+      "off_panel_speaker": []
+    },
+    "CH16-P019-PN03": {
+      "scene_context": [
+        "Assets/Ashiba-Academy-Classroom-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashiba-Academy-Asset-Reference-Sheet.png"
+      ],
+      "costume_dependency": [
+        "Assets/Academy-Uniform-Midori.png"
+      ],
+      "off_panel_speaker": []
+    },
+    "CH16-P019-PN04": {
+      "scene_context": [
+        "Assets/Ashiba-Academy-Classroom-Reference-Sheet.png",
+        "Assets/Ashiba-Academy-Asset-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Academy-Uniform-Midori.png",
+        "Assets/Academy-Uniform-Female.png",
+        "Assets/Academy-Uniform-Male.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P019-PN05": {
+      "scene_context": [
+        "Assets/Ashiba-Academy-Classroom-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashiba-Academy-Asset-Reference-Sheet.png",
+        "Assets/Academy-Uniform-Midori.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P020-PN01": {
+      "scene_context": [
+        "Assets/Ashiba-Academy-Classroom-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashiba-Academy-Asset-Reference-Sheet.png",
+        "Assets/Academy-Uniform-Midori.png",
+        "Assets/Academy-Uniform-Female.png",
+        "Assets/Academy-Uniform-Male.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P020-PN02": {
+      "scene_context": [
+        "Assets/Ashiba-Academy-Classroom-Reference-Sheet.png",
+        "Assets/Ashiba-Academy-Asset-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Academy-Uniform-Midori.png",
+        "Assets/Academy-Uniform-Female.png",
+        "Assets/Academy-Uniform-Male.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P020-PN03": {
+      "scene_context": [
+        "Assets/Ashiba-Academy-Corridor-Reference-Board.png",
+        "Assets/Ashiba-Academy-Asset-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Academy-Uniform-Midori.png",
+        "Assets/Academy-Uniform-Female.png",
+        "Assets/Academy-Uniform-Male.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P020-PN04": {
+      "scene_context": [
+        "Assets/Ashiba-Academy-Classroom-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashiba-Academy-Asset-Reference-Sheet.png",
+        "Assets/Academy-Uniform-Midori.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P020-PN05": {
+      "scene_context": [
+        "Assets/Ashiba-Academy-Classroom-Reference-Sheet.png",
+        "Assets/Ashiba-Academy-Asset-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Academy-Uniform-Midori.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P021-PN01": {
+      "scene_context": [
+        "Assets/Temple-of-Light-Environment-Reference-Sheet.png",
+        "Assets/High-Priestess-Seraphine’s-Office-Suite.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Seraphine character sheet.png"
+      ]
+    },
+    "CH16-P021-PN02": {
+      "scene_context": [
+        "Assets/High-Priestess-Seraphine’s-Office-Suite.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Seraphine character sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P021-PN03": {
+      "scene_context": [
+        "Assets/High-Priestess-Seraphine’s-Office-Suite.png"
+      ],
+      "panel_visible": [
+        "Assets/Seraphine character sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P021-PN04": {
+      "scene_context": [
+        "Assets/High-Priestess-Seraphine’s-Office-Suite.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Roselyn-production-sheet.png",
+        "Assets/Helena Model Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Seraphine character sheet.png"
+      ]
+    },
+    "CH16-P021-PN05": {
+      "scene_context": [
+        "Assets/High-Priestess-Seraphine’s-Office-Suite.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Seraphine character sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P022-PN01": {
+      "scene_context": [
+        "Assets/High-Priestess-Seraphine’s-Office-Suite.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Seraphine character sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P022-PN02": {
+      "scene_context": [
+        "Assets/Temple-of-Light-Archives-and-Records-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Seraphine character sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P022-PN03": {
+      "scene_context": [
+        "Assets/Temple-of-Light-Archives-and-Records-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Seraphine character sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P022-PN04": {
+      "scene_context": [
+        "Assets/Temple-of-Light-Archives-and-Records-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Seraphine character sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P022-PN05": {
+      "scene_context": [
+        "Assets/Zoran_Language_and_script.docx",
+        "Assets/Temple-of-Light-Archives-and-Records-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Seraphine character sheet.png"
+      ]
+    },
+    "CH16-P023-PN01": {
+      "scene_context": [
+        "Assets/Temple-of-Light-Environment-Reference-Sheet.png",
+        "Assets/Temple-of-Light-Archives-and-Records-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Seraphine character sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P023-PN02": {
+      "scene_context": [
+        "Assets/Ashire-Office-Academy-Interior-Reference-Sheet.png",
+        "Assets/Ashiba-Academy-Administration-Building-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Ashire-Character-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P023-PN03": {
+      "scene_context": [
+        "Assets/Ashire-Office-Academy-Interior-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashire-Character-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P023-PN04": {
+      "scene_context": [
+        "Assets/Ashire-Office-Academy-Interior-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Ashire-Character-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P023-PN05": {
+      "scene_context": [
+        "Assets/Temple-of-Light-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Seraphine character sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P024-PN01": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P024-PN02": {
+      "scene_context": [
+        "Assets/Nyssarian-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Mana-Crystals-Production-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P024-PN03": {
+      "scene_context": [
+        "Assets/Nyssarian-Industrial-Research-Complex-Reference-Sheet.png",
+        "Assets/Nyssarian-Mana-Bomb-Reference-Sheet.png",
+        "Assets/Mana-Crystals-Production-Sheet.png"
+      ],
+      "panel_visible": [],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P024-PN04": {
+      "scene_context": [
+        "Assets/Nyssarian-Industrial-Research-Complex-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Mana-Bomb-Reference-Sheet.png",
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P024-PN05": {
+      "scene_context": [
+        "Assets/Nyssarian-Industrial-Research-Complex-Reference-Sheet.png",
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Mana-Bomb-Reference-Sheet.png",
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P025-PN01": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png",
+        "Assets/Nyssarian-Mana-Bomb-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P025-PN02": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P025-PN03": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Military-Uniform-Reference-Sheet.png",
+        "Assets/Nyssarian-Mana-Bomb-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P025-PN04": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png",
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P025-PN05": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P026-PN01": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P026-PN02": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Military-Uniform-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P026-PN03": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P026-PN04": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P026-PN05": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P027-PN01": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P027-PN02": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P027-PN03": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P027-PN04": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P027-PN05": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png",
+        "Assets/Nyssara-canonical-character-specification.txt"
+      ],
+      "panel_visible": [
+        "Assets/Nyssara-character-sheet.png",
+        "Assets/Nyssara-expression-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Nyssarian-Physicist-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P028-PN01": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P028-PN02": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png",
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png"
+      ],
+      "panel_visible": [],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P028-PN03": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png",
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png"
+      ],
+      "panel_visible": [],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P028-PN04": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png",
+        "Assets/Nyssarian-Ground-Forces-Reference-Sheet.png"
+      ],
+      "panel_visible": [],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P028-PN05": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P029-PN01": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png",
+        "Assets/Frontier-Fortress-Production-Sheet.png"
+      ],
+      "panel_visible": [],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P029-PN02": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P029-PN03": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P029-PN04": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashire-Character-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P029-PN05": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashire-Character-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P030-PN01": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashire-Character-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Military-Uniform-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P030-PN02": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashire-Character-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P030-PN03": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashire-Character-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P030-PN04": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Ashire-Character-Sheet.png"
+      ]
+    },
+    "CH16-P030-PN05": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashire-Character-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P031-PN01": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashire-Character-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P031-PN02": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Ashire-Character-Sheet.png"
+      ]
+    },
+    "CH16-P031-PN03": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Ashire-Character-Sheet.png"
+      ]
+    },
+    "CH16-P031-PN04": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Ashire-Character-Sheet.png"
+      ]
+    },
+    "CH16-P031-PN05": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashire-Character-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P032-PN01": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashire-Character-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P032-PN02": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashire-Character-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P032-PN03": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashire-Character-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P032-PN04": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashire-Character-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P032-PN05": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashire-Character-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P033-PN01": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashire-Character-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P033-PN02": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashire-Character-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Mana-Crystals-Production-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P033-PN03": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashire-Character-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P033-PN04": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashire-Character-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P033-PN05": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashire-Character-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P034-PN01": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashire-Character-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P034-PN02": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashire-Character-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P034-PN03": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashire-Character-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P034-PN04": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Ashire-Character-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Mana-Crystals-Production-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P034-PN05": {
+      "scene_context": [
+        "Assets/Battlefield-Blast-and-Fallout-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Ashire-Character-Sheet.png"
+      ]
+    },
+    "CH16-P035-PN01": {
+      "scene_context": [
+        "Assets/Temple-of-Light-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Seraphine character sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P035-PN02": {
+      "scene_context": [
+        "Assets/Temple-of-Light-Environment-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Seraphine character sheet.png"
+      ]
+    },
+    "CH16-P035-PN03": {
+      "scene_context": [
+        "Assets/Temple-of-Light-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Seraphine character sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P035-PN04": {
+      "scene_context": [
+        "Assets/Temple-of-Light-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Seraphine character sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P035-PN05": {
+      "scene_context": [
+        "Assets/Temple-of-Light-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Seraphine character sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P036-PN01": {
+      "scene_context": [
+        "Assets/Temple-of-Light-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Seraphine character sheet.png",
+        "Assets/Ashire-Character-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P036-PN02": {
+      "scene_context": [
+        "Assets/Temple-of-Light-Environment-Reference-Sheet.png",
+        "Assets/High-Priestess-Seraphine’s-Office-Suite.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Seraphine character sheet.png",
+        "Assets/Ashire-Character-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P036-PN03": {
+      "scene_context": [
+        "Assets/Temple-of-Light-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Seraphine character sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P036-PN04": {
+      "scene_context": [
+        "Assets/Temple-of-Light-Environment-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Seraphine character sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P036-PN05": {
+      "scene_context": [
+        "Assets/Temple-of-Light-Environment-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Seraphine character sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P037-PN01": {
+      "scene_context": [
+        "Assets/Temple-of-Light-Environment-Reference-Sheet.png",
+        "Assets/Temple-of-Light-Library-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Seraphine character sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P037-PN02": {
+      "scene_context": [
+        "Assets/Temple-of-Light-Library-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P037-PN03": {
+      "scene_context": [
+        "Assets/Temple-of-Light-Library-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P037-PN04": {
+      "scene_context": [
+        "Assets/Temple-of-Light-Library-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P037-PN05": {
+      "scene_context": [
+        "Assets/Temple-of-Light-Library-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P038-PN01": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P038-PN02": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png",
+        "Assets/Examination-and-Tactical-Map-Props.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P038-PN03": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Nyssarian-Mana-Bomb-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P038-PN04": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Nyssarian-Mana-Bomb-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P038-PN05": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Nyssarian-Mana-Bomb-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P039-PN01": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Brienmay-production-sheet.png",
+        "Assets/Military-Uniform-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P039-PN02": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Nyssarian-Mana-Bomb-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ]
+    },
+    "CH16-P039-PN03": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Mana-Crystals-Production-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png",
+        "Assets/Nyssarian-Mana-Bomb-Reference-Sheet.png"
+      ],
+      "costume_dependency": [
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "off_panel_speaker": []
+    },
+    "CH16-P039-PN04": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Brienmay-production-sheet.png",
+        "Assets/Military-Uniform-Reference-Sheet.png"
+      ],
+      "costume_dependency": [
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P039-PN05": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx",
+        "Assets/Examination-and-Tactical-Map-Props.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P040-PN01": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx",
+        "Assets/Nyssarian-Mana-Bomb-Reference-Sheet.png",
+        "Assets/Examination-and-Tactical-Map-Props.png"
+      ],
+      "panel_visible": [
+        "Assets/Brienmay-production-sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P040-PN02": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Brienmay-production-sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P040-PN03": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P040-PN04": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx",
+        "Assets/Nyssarian-Mana-Bomb-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png",
+        "Assets/Examination-and-Tactical-Map-Props.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P040-PN05": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Ashire-Character-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P041-PN01": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png",
+        "Assets/Buren-Age16-Reference-Sheet.png",
+        "Assets/Buren-Mage-Character-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P041-PN02": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ]
+    },
+    "CH16-P041-PN03": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Emergency-Refuge-Shelter-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P041-PN04": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P041-PN05": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Emergency-Refuge-Shelter-Reference-Sheet.png",
+        "Assets/Examination-and-Tactical-Map-Props.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Brienmay-production-sheet.png"
+      ]
+    },
+    "CH16-P042-PN01": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P042-PN02": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P042-PN03": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Nyssarian-Mana-Bomb-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P042-PN04": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P042-PN05": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P043-PN01": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P043-PN02": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Brienmay-production-sheet.png"
+      ]
+    },
+    "CH16-P043-PN03": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P043-PN04": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P043-PN05": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P044-PN01": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P044-PN02": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ]
+    },
+    "CH16-P044-PN03": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Brienmay-production-sheet.png"
+      ]
+    },
+    "CH16-P044-PN04": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P044-PN05": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P045-PN01": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P045-PN02": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P045-PN03": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P045-PN04": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P045-PN05": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P046-PN01": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P046-PN02": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Brienmay-production-sheet.png",
+        "Assets/Examination-and-Tactical-Map-Props.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P046-PN03": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Nyssarian-Mana-Bomb-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Brienmay-production-sheet.png"
+      ]
+    },
+    "CH16-P046-PN04": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P046-PN05": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Zoran_Language_and_script.docx"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P047-PN01": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Midori-Mana-Gauge-Production-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Mana-Crystals-Production-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ]
+    },
+    "CH16-P047-PN02": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Midori-Mana-Gauge-Production-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Brienmay-production-sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P047-PN03": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Midori-Mana-Gauge-Production-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P047-PN04": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Midori-Mana-Gauge-Production-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Brienmay-production-sheet.png"
+      ]
+    },
+    "CH16-P047-PN05": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Midori-Mana-Gauge-Production-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Mana-Crystals-Production-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P048-PN01": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Midori-Mana-Gauge-Production-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Brienmay-production-sheet.png"
+      ]
+    },
+    "CH16-P048-PN02": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png",
+        "Assets/Midori-Mana-Gauge-Production-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P048-PN03": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Midori-Mana-Gauge-Production-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P048-PN04": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Midori-Mana-Gauge-Production-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Mana-Crystals-Production-Sheet.png"
+      ],
+      "costume_dependency": [
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "off_panel_speaker": [
+        "Assets/Brienmay-production-sheet.png"
+      ]
+    },
+    "CH16-P048-PN05": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Midori-Mana-Gauge-Production-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Brienmay-production-sheet.png"
+      ]
+    },
+    "CH16-P049-PN01": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Mana-Crystals-Production-Sheet.png",
+        "Assets/Midori-Mana-Gauge-Production-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Brienmay-production-sheet.png"
+      ]
+    },
+    "CH16-P049-PN02": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Midori-Mana-Gauge-Production-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Brienmay-production-sheet.png"
+      ]
+    },
+    "CH16-P049-PN03": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Midori-Mana-Gauge-Production-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P049-PN04": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Midori-Mana-Gauge-Production-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Brienmay-production-sheet.png"
+      ]
+    },
+    "CH16-P049-PN05": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png",
+        "Assets/Midori-Mana-Gauge-Production-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P050-PN01": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Midori-Mana-Gauge-Production-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P050-PN02": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Mana-Crystals-Production-Sheet.png",
+        "Assets/Midori-Mana-Gauge-Production-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Brienmay-production-sheet.png"
+      ]
+    },
+    "CH16-P050-PN03": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Midori-Mana-Gauge-Production-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Brienmay-production-sheet.png"
+      ]
+    },
+    "CH16-P050-PN04": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Midori-Mana-Gauge-Production-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": []
+    },
+    "CH16-P050-PN05": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png",
+        "Assets/Midori-Mana-Gauge-Production-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Ashire-Character-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ]
+    },
+    "CH16-P051-PN01": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Brienmay-production-sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png",
+        "Assets/Mana-Crystals-Production-Sheet.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ]
+    },
+    "CH16-P051-PN02": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Brienmay-production-sheet.png"
+      ],
+      "costume_dependency": [
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "off_panel_speaker": [
+        "Assets/Ashire-Character-Sheet.png"
+      ]
+    },
+    "CH16-P051-PN03": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Brienmay-production-sheet.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "costume_dependency": [],
+      "off_panel_speaker": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Ashire-Character-Sheet.png"
+      ]
+    },
+    "CH16-P051-PN04": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png",
+        "Assets/Ashire-Character-Sheet.png"
+      ],
+      "costume_dependency": [
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "off_panel_speaker": [
+        "Assets/Brienmay-production-sheet.png"
+      ]
+    },
+    "CH16-P051-PN05": {
+      "scene_context": [
+        "Assets/Brienmay-Research-Laboratory-Reference-Sheet.png"
+      ],
+      "panel_visible": [
+        "Assets/Midori-Mage-Character-Reference-Sheet.png"
+      ],
+      "costume_dependency": [
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-female.png",
+        "Assets/Temple-of-Light-Mage-Uniform-Reference-male.png"
+      ],
+      "off_panel_speaker": [
+        "Assets/Brienmay-production-sheet.png",
+        "Assets/Ashire-Character-Sheet.png"
+      ]
+    }
+  },
+  "authority_exclusions": [
+    "Nyas and Zora are alternate names for the same world; Nyssarian is the adjective or singular identity and Nyssarians is the plural people name.",
+    "Nyssarians have pointed elven ears.",
+    "Visible Nyssarian writing uses Nyssarian script; English is reserved for reader-facing speech or translation and approved Earth-built time-machine displays.",
+    "The Air Force hook insignia is service-specific and must not be reused for ground forces, artillery, flags, or cannon markings.",
+    "The artillery insignia is the approved hook-derived diagonal-line design and remains distinct from the Air Force and ground-force emblems.",
+    "MF-51 is the canonical aircraft designation; MF-262 is superseded and excluded.",
+    "The deleted Midori-Academy-Uniform-Production-Sheet.png is excluded from Chapter 16 authority.",
+    "Temple of Light and Academy assets are not interchangeable; use the Temple-specific environment, library, archives, and office references where mapped."
+  ],
+  "validation": {
+    "asset_paths_exist": true,
+    "asset_count": 59,
+    "panel_bindings": 255,
+    "scene_bindings": 57,
+    "status": "STEP26_RELEASED_FOR_STEP27_RENDERING"
+  }
+}

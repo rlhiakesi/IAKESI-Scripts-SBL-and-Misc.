@@ -1,0 +1,272 @@
+{
+  "asset_library": {
+    "id": "IAKESI-CH11-assets",
+    "resources": {
+      "Assets/Academy-Tailor-Character-Reference-Sheet.png": {
+        "file": "Assets/Academy-Tailor-Character-Reference-Sheet.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Academy-Uniform-Female.png": {
+        "file": "Assets/Academy-Uniform-Female.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Academy-Uniform-Male.png": {
+        "file": "Assets/Academy-Uniform-Male.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Adnil-production-sheet.png": {
+        "file": "Assets/Adnil-production-sheet.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Ashiba-Academy-Administration-Building-Reference-Sheet.png": {
+        "file": "Assets/Ashiba-Academy-Administration-Building-Reference-Sheet.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Ashiba-Academy-Assembly-Hall-Podium-Reference-Sheet.png": {
+        "file": "Assets/Ashiba-Academy-Assembly-Hall-Podium-Reference-Sheet.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Ashiba-Academy-Campus-Reference-Sheet.png": {
+        "file": "Assets/Ashiba-Academy-Campus-Reference-Sheet.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Ashiba-Academy-Classroom-Building-Reference-Sheet.png": {
+        "file": "Assets/Ashiba-Academy-Classroom-Building-Reference-Sheet.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Ashiba-Academy-Classroom-Reference-Sheet.png": {
+        "file": "Assets/Ashiba-Academy-Classroom-Reference-Sheet.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Ashiba-Academy-Corridor-Reference-Board.png": {
+        "file": "Assets/Ashiba-Academy-Corridor-Reference-Board.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Ashiba-Academy-Foyer-Reference-Board.png": {
+        "file": "Assets/Ashiba-Academy-Foyer-Reference-Board.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Ashiba-Academy-Insignia-Reference-Sheet.png": {
+        "file": "Assets/Ashiba-Academy-Insignia-Reference-Sheet.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Ashiba-Academy-Mana-Operated-Doors.png": {
+        "file": "Assets/Ashiba-Academy-Mana-Operated-Doors.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Ashiba-Academy-Tailor-Tools-Reference-Sheet.png": {
+        "file": "Assets/Ashiba-Academy-Tailor-Tools-Reference-Sheet.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Ashiba-Academy-Tailoring-Room-Reference-Board.png": {
+        "file": "Assets/Ashiba-Academy-Tailoring-Room-Reference-Board.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Ashire-Character-Sheet.png": {
+        "file": "Assets/Ashire-Character-Sheet.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Ashire-Office-Academy-Interior-Reference-Sheet.png": {
+        "file": "Assets/Ashire-Office-Academy-Interior-Reference-Sheet.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Beli-production-sheet.png": {
+        "file": "Assets/Beli-production-sheet.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Brienmay-production-sheet.png": {
+        "file": "Assets/Brienmay-production-sheet.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Buren-Character-Sheet.png": {
+        "file": "Assets/Buren-Character-Sheet.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Celeste-Character-Sheet.png": {
+        "file": "Assets/Celeste-Character-Sheet.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Dorm Floor Plan.png": {
+        "file": "Assets/Dorm Floor Plan.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Japanese-Text-Quick-Brown-Fox.png": {
+        "file": "Assets/Japanese-Text-Quick-Brown-Fox.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Kenee-Character-Sheet.png": {
+        "file": "Assets/Kenee-Character-Sheet.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Lucia-Character-Sheet.png": {
+        "file": "Assets/Lucia-Character-Sheet.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Mana-Capacity-Crystal-Production-Sheet.png": {
+        "file": "Assets/Mana-Capacity-Crystal-Production-Sheet.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Midori-Academy-Uniform-Production-Sheet.png": {
+        "file": "Assets/Midori-Academy-Uniform-Production-Sheet.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Midori-Dormitory-Environment-Reference.png": {
+        "file": "Assets/Midori-Dormitory-Environment-Reference.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Midori-Kamakura-Miko-Costume-Reference.png": {
+        "file": "Assets/Midori-Kamakura-Miko-Costume-Reference.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Midori-Portable-Chest-Reference-Sheet.png": {
+        "file": "Assets/Midori-Portable-Chest-Reference-Sheet.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Midori-Production-Academy.png": {
+        "file": "Assets/Midori-Production-Academy.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Midori-Temple-Robes.png": {
+        "file": "Assets/Midori-Temple-Robes.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Naandeen-production-sheet.png": {
+        "file": "Assets/Naandeen-production-sheet.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Quick-Brown-Fox.txt": {
+        "file": "Assets/Quick-Brown-Fox.txt",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Roselyn-production-sheet.png": {
+        "file": "Assets/Roselyn-production-sheet.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Seraphine-character-sheet.png": {
+        "file": "Assets/Seraphine-character-sheet.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      },
+      "Assets/Zarleen-age-19-20.png": {
+        "file": "Assets/Zarleen-age-19-20.png",
+        "type": "canonical_reference",
+        "purposes": [
+          "canonical_visual_reference"
+        ]
+      }
+    }
+  },
+  "hair_color_canon": {
+    "zoran_males": "White hair, including anonymous and background Zoran males.",
+    "zoran_females": "Shades of platinum-blonde hair, including anonymous and background Zoran females.",
+    "midori_exception": "Midori is Japanese and retains her canonical black hair.",
+    "scope": "All 55 pages and 284 scenes; canonical character reference sheets remain authoritative."
+  }
+}

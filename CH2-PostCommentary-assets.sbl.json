@@ -1,0 +1,54 @@
+{
+  "library": {
+    "id": "IAKESI-CH2-POSTCOMMENTARY-ASSETS",
+    "specification": {
+      "name": "SBL",
+      "version": "1.0",
+      "exact": true
+    },
+    "resources": {
+      "res_manga-me-character-sheet": {
+        "file": "Assets/Manga Me Character Sheet.png",
+        "type": "image",
+        "purposes": [
+          "character_identity",
+          "expression_reference",
+          "costume_identity",
+          "color_reference"
+        ],
+        "description": "Primary canonical Manga Me reference."
+      },
+      "res_randy-hyde-workstation": {
+        "file": "Assets/Randy Hyde Workstation.png",
+        "type": "image",
+        "purposes": [
+          "environment_reference",
+          "workstation_identity",
+          "character_continuity"
+        ],
+        "description": "Canonical Manga Me home-workstation/environment reference."
+      },
+      "res_randy-manga": {
+        "file": "Assets/Randy Manga.png",
+        "type": "image",
+        "purposes": [
+          "character_identity",
+          "face_reference",
+          "closeup_reference"
+        ],
+        "description": "Supplemental close-up appearance reference for Manga Me."
+      },
+      "res_ch2-commentary-production-sheet": {
+        "file": "Assets/CH2_Commentary_Production_Sheet.docx",
+        "type": "document",
+        "purposes": [
+          "production_reference",
+          "speech_balloon_reference",
+          "workflow_reference",
+          "style_reference"
+        ],
+        "description": "Canonical Chapter 2 post-commentary production sheet defining balloon failures, layer workflow, labels, 70/30 style examples, and production metaphors."
+      }
+    }
+  }
+}

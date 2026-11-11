@@ -1,0 +1,131 @@
+IAKESI Manga Production Script Format
+
+General
+
+The production script should contain only information needed to produce
+the manga pages.
+
+Do not include design notes, production commentary, brainstorming notes,
+or explanations to the reader.
+
+Dialogue Rules
+
+Every spoken dialogue block is enclosed in a single pair of parentheses.
+All dialogue belonging to one speaker remains inside that same pair of
+parentheses.
+
+Single Speaker
+
+(Speaker: “Dialogue”)
+
+Example:
+
+(Seraphine: “Welcome to the Royal Academy of Magic.”)
+
+Connected Dialogue Bubbles (same speaker)
+
+(Speaker: “Dialogue 1” -> “Dialogue 2”)
+
+Shared Dialogue Bubble
+
+(Speaker 1, Speaker 2: “Shared dialogue”)
+
+Multiple Speakers in the Same Panel
+
+Use parentheses to indicate comic-book reading order.
+
+Example:
+
+(Seraphine: “Lady Midori.”) (Midori: “Yes, Lady Seraphine?”)
+
+Internal Thoughts
+
+(Character (thinking): “Thought”)
+
+Example:
+
+(Midori (thinking): “This place is much larger than the Temple.”)
+
+Narration
+
+Narration: “Text appearing in a narration box.”
+
+Example:
+
+Narration: “Two mons later…”
+
+Setting
+
+Setting:
+
+Describe the artwork for the panel or scene.
+
+These instructions are for the image generator only and do not appear in
+the finished artwork.
+
+Do not place Setting text inside quotation marks.
+
+Sound Effects
+
+Sound: Rinnnnng
+
+Sound: Tap
+
+Sound: Fwoosh
+
+Render environmental sound effects in canonical Zoran geometric script
+where appropriate.
+
+Visual Direction
+
+Describe what is visible.
+
+Do not write production commentary such as:
+
+-   “This tells the reader…”
+-   “This establishes…”
+-   “Add comedy here…”
+-   “Opportunity for humor…”
+
+Instead, simply script the scene.
+
+Camera Direction
+
+Include camera direction naturally within the Setting description.
+
+Script Organization
+
+Chapter
+
+Act
+
+Page
+
+Scene
+
+Example:
+
+Chapter 11
+
+Act 1 — Arrival at the Royal Academy
+
+Page 1
+
+Scene 1
+
+Setting: …
+
+Narration: “…”
+
+(Seraphine: “…”)
+
+(Midori: “…”)
+
+General Production Rules
+
+-   Separate image-generation instructions (Setting) from narration.
+-   Narration always appears in narration boxes.
+-   Dialogue always follows the dialogue syntax above.
+-   Thoughts use the (thinking) syntax.
+-   Do not include production commentary or brainstorming notes.
+-   Write only what is needed to generate the artwork.

@@ -1,0 +1,264 @@
+{
+  "library": {
+    "id": "CH7-assets",
+    "specification": {
+      "name": "SBL",
+      "version": "1.0",
+      "exact": true
+    },
+    "resources": {
+      "Aokawa-Communal-Travel-Blade-production-sheet.png": {
+        "file": "Assets/Aokawa-Communal-Travel-Blade-production-sheet.png",
+        "type": "image",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "Aokawa-Meeting-Hall-production-sheet.png": {
+        "file": "Assets/Aokawa-Meeting-Hall-production-sheet.png",
+        "type": "image",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "Aokawa-Temple-Exterior-production-sheet.png": {
+        "file": "Assets/Aokawa-Temple-Exterior-production-sheet.png",
+        "type": "image",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "Aokawa-Temple-Interior-production-sheet.png": {
+        "file": "Assets/Aokawa-Temple-Interior-production-sheet.png",
+        "type": "image",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "Aokawa-Village-production-sheet.png": {
+        "file": "Assets/Aokawa-Village-production-sheet.png",
+        "type": "image",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "Emi-canonical-character-specification.txt": {
+        "file": "Assets/Emi-canonical-character-specification.txt",
+        "type": "text",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "Emi-character-Sheet.png": {
+        "file": "Assets/Emi-character-Sheet.png",
+        "type": "image",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "Haru-character-sheet.png": {
+        "file": "Assets/Haru-character-sheet.png",
+        "type": "image",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "Haru-expression-sheet.png": {
+        "file": "Assets/Haru-expression-sheet.png",
+        "type": "image",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "Haru-canonical-character-specification.txt": {
+        "file": "Assets/Haru-canonical-character-specification.txt",
+        "type": "text",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "Kamakura-Audience-Chamber-production-sheet.png": {
+        "file": "Assets/Kamakura-Audience-Chamber-production-sheet.png",
+        "type": "image",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "Kamakura-Generic-Personnel-reference-sheet.png": {
+        "file": "Assets/Kamakura-Generic-Personnel-reference-sheet.png",
+        "type": "image",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "Midori-Age-11-Canonical-Character-Specification-v2.txt": {
+        "file": "Assets/Midori-Age-11-Canonical-Character-Specification-v2.txt",
+        "type": "text",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "Midori-House-production-sheet.png": {
+        "file": "Assets/Midori-House-production-sheet.png",
+        "type": "image",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "Midori-age11-character-reference-sheet.png": {
+        "file": "Assets/Midori-age11-character-reference-sheet.png",
+        "type": "image",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "Midori-age11-expression-sheet.png": {
+        "file": "Assets/Midori-age11-expression-sheet.png",
+        "type": "image",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "SRA-production-sheet.png": {
+        "file": "Assets/SRA-production-sheet.png",
+        "type": "image",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "Takeshi-character-reference-sheet.png": {
+        "file": "Assets/Takeshi-character-reference-sheet.png",
+        "type": "image",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "Takeshi-expression-sheet.png": {
+        "file": "Assets/Takeshi-expression-sheet.png",
+        "type": "image",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "Terra-canonical-character-specification.txt": {
+        "file": "Assets/Terra-canonical-character-specification.txt",
+        "type": "text",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "Terra-character-sheet.png": {
+        "file": "Assets/Terra-character-sheet.png",
+        "type": "image",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "Terra-expression-sheet.png": {
+        "file": "Assets/Terra-expression-sheet.png",
+        "type": "image",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "Truk-canonical-character-specification.txt": {
+        "file": "Assets/Truk-canonical-character-specification.txt",
+        "type": "text",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "Truk-character-reference-sheet.png": {
+        "file": "Assets/Truk-character-reference-sheet.png",
+        "type": "image",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "Truk-expression-sheet.png": {
+        "file": "Assets/Truk-expression-sheet.png",
+        "type": "image",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "Village-Chief-character-reference-sheet.png": {
+        "file": "Assets/Village-Chief-character-reference-sheet.png",
+        "type": "image",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "Village-Chief-expression-sheet.png": {
+        "file": "Assets/Village-Chief-expression-sheet.png",
+        "type": "image",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "WOA-canonical-production-specification.txt": {
+        "file": "Assets/WOA-canonical-production-specification.txt",
+        "type": "text",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "WOA-production-sheet.png": {
+        "file": "Assets/WOA-production-sheet.png",
+        "type": "image",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "WOA-production-sheet-plus-map.png": {
+        "file": "Assets/WOA-production-sheet-plus-map.png",
+        "type": "image",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "Zorna-canonical-character-specification(1).txt": {
+        "file": "Assets/Zorna-canonical-character-specification(1).txt",
+        "type": "text",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "Zorna-character-sheet.png": {
+        "file": "Assets/Zorna-character-sheet.png",
+        "type": "image",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "Zorna-expression-sheet.png": {
+        "file": "Assets/Zorna-expression-sheet.png",
+        "type": "image",
+        "purposes": [
+          "canonical_reference"
+        ]
+      },
+      "Takeshi-Canonical-Character-Specification.txt": {
+        "file": "Assets/Takeshi-Canonical-Character-Specification.txt",
+        "type": "text",
+        "purposes": [
+          "character_specification"
+        ]
+      },
+      "VillageChief-Canonical-Character-Specification.txt": {
+        "file": "Assets/VillageChief-Canonical-Character-Specification.txt",
+        "type": "text",
+        "purposes": [
+          "character_specification"
+        ]
+      },
+      "Emi-Expression-Sheet.png": {
+        "file": "Assets/Emi-Expression-Sheet.png",
+        "type": "image",
+        "purposes": [
+          "expression_reference"
+        ]
+      }
+    }
+  }
+}
